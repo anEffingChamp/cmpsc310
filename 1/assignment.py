@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # Write a program that shall eliminate duplicate words from a text file. The
 # program shall:
 
@@ -18,3 +20,14 @@
 
 # Test your program by removing duplicates from Othello. Do not write
 # code for downloading the file.
+
+import sys
+
+targetFile = raw_input("Please enter the name of the target file: ")
+try:
+    targetFile = open(targetFile, 'r')
+except IOError:
+    print """\nWe could not open {targetFile}.
+    - Is it present on the local file system?
+    - Are its permissions properly set?\n\n""".format(targetFile=targetFile)
+    sys.exit()
