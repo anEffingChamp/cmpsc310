@@ -33,3 +33,11 @@ except IOError:
     sys.exit()
 # We have a file at this point. Now we can create the output file, and run our
 # transformations.
+output = 'nodups-{0}.txt'.format(targetFile)
+try:
+    output = open(output, 'rw+')
+except IOError:
+    print ("""\nWe could not create the {0} as the target file.\n
+    - Do we have write permissions to the directory?
+    - Is the disk full?\n\n""".format(output))
+    sys.exit()
