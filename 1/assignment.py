@@ -44,7 +44,12 @@ except IOError:
 for targetLine in targetFile:
     # TODO We could also have duplicate words across lines. What would we do
     # then?
-    outputLine = targetLine
-    output.write(outputLine)
+    # TODO A duplicated would could be separated by a delimiter like
+    # "word, word". How would we detect that?
+    outputList = targetLine.split(' ')
+    for loop in range(len(outputList) - 1, 1, -1):
+        if outputList[loop] == outputList[loop - 1]:
+            outputList[loop] = ''
+    output.write(' '.join(outputList))
 targetFile.close()
 output.close()
