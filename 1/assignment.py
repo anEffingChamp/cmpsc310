@@ -31,3 +31,5 @@ except IOError:
     - Is it present on the local file system?
     - Are its permissions properly set?\n\n""".format(targetFile=targetFile)
     sys.exit()
+# We have a file at this point. Now we can create the output file, and run our
+# transformations.
