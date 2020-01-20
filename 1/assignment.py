@@ -23,9 +23,9 @@
 
 import sys
 
-targetFile = input("Please enter the name of the target file: ")
+targetFileName = input("Please enter the name of the target file: ")
 try:
-    targetFile = open(targetFile, 'r')
+    targetFile = open(targetFileName, 'r')
 except IOError:
     print ("""\nWe could not open {0}.
     - Is it present on the local file system?
@@ -33,11 +33,18 @@ except IOError:
     sys.exit()
 # We have a file at this point. Now we can create the output file, and run our
 # transformations.
-output = 'nodups-{0}.txt'.format(targetFile)
+output = 'nodups-{0}'.format(targetFileName)
 try:
-    output = open(output, 'rw+')
+    output = open(output, 'w+')
 except IOError:
     print ("""\nWe could not create the {0} as the target file.\n
     - Do we have write permissions to the directory?
     - Is the disk full?\n\n""".format(output))
     sys.exit()
+for targetLine in targetFile:
+    # TODO We could also have duplicate words across lines. What would we do
+    # then?
+    outputLine = targetLine
+    output.write(outputLine)
+targetFile.close()
+output.close()
