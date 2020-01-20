@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 # Write a program that shall eliminate duplicate words from a text file. The
 # program shall:
@@ -23,13 +23,13 @@
 
 import sys
 
-targetFile = raw_input("Please enter the name of the target file: ")
+targetFile = input("Please enter the name of the target file: ")
 try:
     targetFile = open(targetFile, 'r')
 except IOError:
-    print """\nWe could not open {targetFile}.
+    print ("""\nWe could not open {0}.
     - Is it present on the local file system?
-    - Are its permissions properly set?\n\n""".format(targetFile=targetFile)
+    - Are its permissions properly set?\n\n""".format(targetFile))
     sys.exit()
 # We have a file at this point. Now we can create the output file, and run our
 # transformations.
