@@ -41,15 +41,14 @@ except IOError:
     - Do we have write permissions to the directory?
     - Is the disk full?\n\n""".format(output))
     sys.exit()
+uniqueWords = set()
 for targetLine in targetFile:
-    # TODO We could also have duplicate words across lines. What would we do
-    # then?
-    # TODO A duplicated would could be separated by a delimiter like
-    # "word, word". How would we detect that?
     outputList = targetLine.split(' ')
-    for loop in range(len(outputList) - 1, 1, -1):
-        if outputList[loop] == outputList[loop - 1]:
+    for loop in range(0, len(outputList)):
+        if outputList[loop] in uniqueWords:
             outputList[loop] = ''
+            continue
+        uniqueWords.add(outputList[loop])
     output.write(' '.join(outputList))
 targetFile.close()
 output.close()
