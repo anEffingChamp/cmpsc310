@@ -37,7 +37,9 @@ from urllib.request import urlopen
 import csv
 
 def main():
-    URL = "https://en.wikipedia.org/wiki/List_of_United_States_cities_by_crime_rate"
+    wikiURL = "https://en.wikipedia.org/wiki"
+    URL     = wikiURL + "/List_of_United_States_cities_by_crime_rate"
+    print(URL)
     with urlopen(URL) as url:
         soup = BeautifulSoup(url,"lxml")
     table = soup.find("table")
@@ -52,9 +54,14 @@ def main():
     fileName   = "crimeRatesByBorderProximity.csv"
     lis_array  = []
     for link in data:
-        td = link.find_all('td')
+        td  = link.find_all('td')
         row = [i.text for i in td]
         for i in row:
+            cityURL = row[1].a.href
+            print(cityURL)
+            #with urlopen(wikiURL + '') as url:
+             #   soup = BeautifulSoup(url,"lxml")
+            #citySoup = BeautifulSoup()
             lis_array.append([row[0], row[1], "", row[3]])
             break
     with open(fileName, "w") as csvFile:
