@@ -54,12 +54,18 @@ def main():
     fileName   = "crimeRatesByBorderProximity.csv"
     lis_array  = []
     for link in data:
-        td  = link.find_all('td')
-        row = [i.text for i in td]
+        # We can skip this data if it is a column without a linked city.
+        # Otherwise we have no subsequent data to parse the distance to the
+        # border.
+        cityLink = link.contents[3].a
+        if None == cityLink:
+            continue;
         # We find the citySuffix by parsing down through each table cell. They
         # are not labelled, so we need to look at what the object contains to
         # find the numeric index.
         citySuffix = link.contents[3].a.get('href')
+        td         = link.find_all('td')
+        row        = [i.text for i in td]
         with urlopen(wikiURL + citySuffix) as cityURL:
             citySoup = BeautifulSoup(cityURL, 'lxml')
         print(citySoup)
