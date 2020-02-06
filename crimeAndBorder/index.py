@@ -56,12 +56,14 @@ def main():
     for link in data:
         td  = link.find_all('td')
         row = [i.text for i in td]
+        # We find the citySuffix by parsing down through each table cell. They
+        # are not labelled, so we need to look at what the object contains to
+        # find the numeric index.
+        citySuffix = link.contents[3].a.get('href')
+        with urlopen(wikiURL + citySuffix) as cityURL:
+            citySoup = BeautifulSoup(cityURL, 'lxml')
+        print(citySoup)
         for i in row:
-            cityURL = row[1].a.href
-            print(cityURL)
-            #with urlopen(wikiURL + '') as url:
-             #   soup = BeautifulSoup(url,"lxml")
-            #citySoup = BeautifulSoup()
             lis_array.append([row[0], row[1], "", row[3]])
             break
     with open(fileName, "w") as csvFile:
