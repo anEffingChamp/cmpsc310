@@ -37,9 +37,8 @@ from urllib.request import urlopen
 import csv
 
 def main():
-    wikiURL = "https://en.wikipedia.org/wiki"
-    URL     = wikiURL + "/List_of_United_States_cities_by_crime_rate"
-    print(URL)
+    wikiURL = "https://en.wikipedia.org"
+    URL     = wikiURL + "/wiki/List_of_United_States_cities_by_crime_rate"
     with urlopen(URL) as url:
         soup = BeautifulSoup(url,"lxml")
     table = soup.find("table")
@@ -54,15 +53,24 @@ def main():
     fileName   = "crimeRatesByBorderProximity.csv"
     lis_array  = []
     for link in data:
-        td  = link.find_all('td')
-        row = [i.text for i in td]
+        # We can skip this data if it is a column without a linked city.
+        # Otherwise we have no subsequent data to parse the distance to the
+        # border.
+        cityLink = link.contents[3].a
+        if None == cityLink:
+            continue;
         # We find the citySuffix by parsing down through each table cell. They
         # are not labelled, so we need to look at what the object contains to
         # find the numeric index.
         citySuffix = link.contents[3].a.get('href')
+        td         = link.find_all('td')
+        row        = [i.text for i in td]
         with urlopen(wikiURL + citySuffix) as cityURL:
             citySoup = BeautifulSoup(cityURL, 'lxml')
-        print(citySoup)
+        # Once we have the city page, we can pull the geographic coordinates for
+        # it. We will use them to find its distance to the nearest border.
+        cityLatitude  = citySoup.find('span', {'class': 'latitude'}).contents
+        cityLongitude = citySoup.find('span', {'class': 'longitude'}).contents
         for i in row:
             lis_array.append([row[0], row[1], "", row[3]])
             break
