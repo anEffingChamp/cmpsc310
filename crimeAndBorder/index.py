@@ -144,16 +144,21 @@ def main():
 # We now need to parse the coordinate into decimal format, since it is
 # currently in imperial: 30°41′40″N
 def coordinatesToRadians(inputArgument):
-    inputDelimiter = inputArgument.find('°')
-    output = int(inputArgument[0:inputDelimiter])
+    inputDelimiter  = inputArgument.find('°')
+    output          = float(inputArgument[0:inputDelimiter])
     inputDelimiter2 = inputArgument.find('′')
-    output = output + int(
-        inputArgument[inputDelimiter + 1:inputDelimiter2]
-    ) / 100
-    # Some coordinates only have degrees, and minutes, but no imperial seconds.
-    # If so, we can stop skip this step of parsing seconds.
-    if inputDelimiter2 + 2 < len(inputArgument):
-        output = output + int(inputArgument[inputDelimiter2 + 1:-2]) / 1000
+    # Some coordinates are already in decimal format. If so, we can just return
+    # them.
+    if None != inputDelimiter2:
+        output = output + float(
+            inputArgument[inputDelimiter + 1:inputDelimiter2]
+        ) / 100
+        # Some coordinates only have degrees, and minutes, but no imperial
+        # seconds. f so, we can stop skip this step of parsing seconds.
+        if inputDelimiter2 + 2 < len(inputArgument):
+            output = (
+                output + float(inputArgument[inputDelimiter2 + 1:-2]) / 1000
+            )
     return math.radians(output)
 
 if __name__=="__main__":
