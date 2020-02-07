@@ -43,22 +43,29 @@ report. Do not include the HTML files.
 
 def main():
     borderCoordinates = [
+        # San Ysidro, California
+        ['32.5549°N', '117.044306°W'],
         # Brownsville, Texas
         ['25°55′49″N', '97°29′04″W'],
         # El Paso
         ['31°45′33″N', '106°29′19″W'],
+        # Laredo
+        ['27°31′28″N', '99°29′26″W'],
+        # Del Rio
+        # TODO So these coordinates already in decimal format, great.
+        ['29.364°N', '100.900°W'],
         # Yuma, Arizona
-        ['32°41′32″N', '114°36′55″W']
+        ['32°41′32″N', '114°36′55″W'],
+        # Tucosn
+        ['32°13′18″N', '110°55′35″W']
     ]
-#each city to San Ysidro, Yuma, Tucson, El Paso, Laredo, Del Rio, and
-#Brownsville, TX. You are allowed to hardcode the coordinates of these locations.
     wikiURL = "https://en.wikipedia.org"
     URL     = wikiURL + "/wiki/List_of_United_States_cities_by_crime_rate"
     print(
         f'This program reviews a Wikipedia list of American cities, and maps \
         their reported crime rates against their respective distances to the \
         Mexican border. \
-            {URL}\n
+            {URL} \
         city \t distance \t crime\n'
     )
     with urlopen(URL) as url:
