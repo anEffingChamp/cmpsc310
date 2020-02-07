@@ -86,30 +86,20 @@ def main():
         # it. We will use them to find its distance to the nearest border.
         # We convert them to radians right away, because we are not required to
         # print the coordinates, but we need radians for the formula.
-        cityLatitudeString = (
+        cityLatitude = coordinatesToRadians(
             citySoup.find('span', {'class': 'latitude'}).contents[0]
         )
-        # We now need to parse the coordinate into decimal format, since it is
-        # currently in imperial: 30°41′40″N
-        cityLatitude = int(cityLatitudeString[0:2])
-        cityLatitude = cityLatitude + int(cityLatitudeString[3:5]) / 100
-        cityLatitude = cityLatitude + int(cityLatitudeString[6:8]) / 1000
-        cityLatitude = math.radians(cityLatitude)
-        # Here is the same for longitude.
-        cityLongitudeString = (
+        cityLongitude = coordinatesToRadians(
             citySoup.find('span', {'class': 'longitude'}).contents[0]
         )
-        cityLongitude = int(cityLongitudeString[0:2])
-        cityLongitude = cityLongitude + int(cityLongitudeString[3:5]) / 100
-        cityLongitude = cityLongitude + int(cityLongitudeString[6:8]) / 1000
-        cityLongitude = math.radians(cityLongitude)
         # With the coordinates in hand, we use the great circle formula to
         # calculate the distance, and find the closest border town.
         # https://en.wikipedia.org/wiki/Great-circle_distance
         borderDistance = 0
         for borderTown in borderCoordinates:
-            borderXRadians = math.radians(borderTown[1])
-            borderYRadians = math.radians(borderTown[0])
+            borderXRadians = coordinatesToRadians(borderTown[1])
+            borderYRadians = coordinatesToRadians(borderTown[0])
+            # math.dist() would have accomplished the same thing.
             deltaSigma = math.acos(
                 math.sin(cityLongitude) * math.sin(borderXRadians)
                 + math.cos(math.abs(cityLatitude - borderYRadians))
@@ -125,6 +115,13 @@ def main():
         csvwriter.writerow(fieldNames)
         csvwriter.writerows(lis_array)
 
+# We now need to parse the coordinate into decimal format, since it is
+# currently in imperial: 30°41′40″N
+def coordinatesToRadians(inputArgument):
+    output = int(inputArgument[0:2])
+    output = output + int(inputArgument[3:5]) / 100
+    output = output + int(inputArgument[6:8]) / 1000
+    return math.radians(output)
 
 if __name__=="__main__":
     main()
