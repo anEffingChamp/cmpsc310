@@ -86,12 +86,23 @@ def main():
         # it. We will use them to find its distance to the nearest border.
         # We convert them to radians right away, because we are not required to
         # print the coordinates, but we need radians for the formula.
-        cityLatitude  = math.radians(
-            citySoup.find('span', {'class': 'latitude'}).contents
+        cityLatitudeString = (
+            citySoup.find('span', {'class': 'latitude'}).contents[0]
         )
-        cityLongitude = math.radians(
-            citySoup.find('span', {'class': 'longitude'}).contents
+        # We now need to parse the coordinate into decimal format, since it is
+        # currently in imperial: 30°41′40″N
+        cityLatitude = int(cityLatitudeString[0:2])
+        cityLatitude = cityLatitude + int(cityLatitudeString[3:5]) / 100
+        cityLatitude = cityLatitude + int(cityLatitudeString[6:8]) / 1000
+        cityLatitude = math.radians(cityLatitude)
+        # Here is the same for longitude.
+        cityLongitudeString = (
+            citySoup.find('span', {'class': 'longitude'}).contents[0]
         )
+        cityLongitude = int(cityLongitudeString[0:2])
+        cityLongitude = cityLongitude + int(cityLongitudeString[3:5]) / 100
+        cityLongitude = cityLongitude + int(cityLongitudeString[6:8]) / 1000
+        cityLongitude = math.radians(cityLongitude)
         # With the coordinates in hand, we use the great circle formula to
         # calculate the distance, and find the closest border town.
         # https://en.wikipedia.org/wiki/Great-circle_distance
