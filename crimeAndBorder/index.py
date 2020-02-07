@@ -44,7 +44,7 @@ report. Do not include the HTML files.
 def main():
     borderCoordinates = [
         # Brownsville, Texas
-        ['25°55′49″N', '97°29′4″W'],
+        ['25°55′49″N', '97°29′04″W'],
         # El Paso
         ['31°45′33″N', '106°29′19″W'],
         # Yuma, Arizona
@@ -102,7 +102,7 @@ def main():
             # math.dist() would have accomplished the same thing.
             deltaSigma = math.acos(
                 math.sin(cityLongitude) * math.sin(borderXRadians)
-                + math.cos(math.abs(cityLatitude - borderYRadians))
+                + math.cos(math.fabs(cityLatitude - borderYRadians))
                 * math.cos(cityLongitude) + math.cos(borderXRadians)
             )
             if ((borderDistance == 0)
