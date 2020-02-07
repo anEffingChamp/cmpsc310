@@ -54,6 +54,13 @@ def main():
 #Brownsville, TX. You are allowed to hardcode the coordinates of these locations.
     wikiURL = "https://en.wikipedia.org"
     URL     = wikiURL + "/wiki/List_of_United_States_cities_by_crime_rate"
+    print(
+        f'This program reviews a Wikipedia list of American cities, and maps \
+        their reported crime rates against their respective distances to the \
+        Mexican border. \
+            {URL}\n
+        city \t distance \t crime\n'
+    )
     with urlopen(URL) as url:
         soup = BeautifulSoup(url,"lxml")
     table = soup.find("table")
@@ -116,8 +123,12 @@ def main():
             if ((borderDistance == 0)
             or (borderDistance < circleRadius * deltaSigma)
             ):
-                borderDistance = circleRadius * deltaSigma
+                borderDistance = round(circleRadius * deltaSigma, 2)
+        print(f'{row[0]}, {row[1]} - \t{borderDistance}, {row[3]}')
         lis_array.append([row[0], row[1], borderDistance, row[3]])
+    print(
+        f"Now we can write the output to {fileName}"
+    )
     with open(fileName, "w") as csvFile:
         csvwriter = csv.writer(csvFile)
         csvwriter.writerow(fieldNames)
