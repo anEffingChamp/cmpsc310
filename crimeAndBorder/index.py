@@ -105,10 +105,13 @@ def main():
                 + math.cos(math.fabs(cityLatitude - borderYRadians))
                 * math.cos(cityLongitude) + math.cos(borderXRadians)
             )
+            # Cool, so what is the radius of the Earth?
+            # https://en.wikipedia.org/wiki/Earth_radius
+            circleRadius = 3958
             if ((borderDistance == 0)
-            or (borderDistance < circleRadians * deltaSigma)
+            or (borderDistance < circleRadius * deltaSigma)
             ):
-                borderDistance = circleRadians * deltaSigma
+                borderDistance = circleRadius * deltaSigma
         lis_array.append([row[0], row[1], borderDistance, row[3]])
     with open(fileName, "w") as csvFile:
         csvwriter = csv.writer(csvFile)
