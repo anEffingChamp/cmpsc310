@@ -9,7 +9,11 @@ Write a program that shall:
 per 100,000 people) from the major US cities from the List of US cities by crime
 rate. https://en.wikipedia.org/wiki/List_of_United_States_cities_by_crime_rate
 
-2. For each city, follow the link to its Wikipedia page and extract its coordinates. Calculate the distance to the border as the smallest distance from each city to San Ysidro, Yuma, Tucson, El Paso, Laredo, Del Rio, and Brownsville, TX. You are allowed to hardcode the coordinates of these locations. Use the great- circle distance formula.
+2. For each city, follow the link to its Wikipedia page and extract its
+coordinates. Calculate the distance to the border as the smallest distance from
+each city to San Ysidro, Yuma, Tucson, El Paso, Laredo, Del Rio, and
+Brownsville, TX. You are allowed to hardcode the coordinates of these locations.
+Use the great- circle distance formula.
 
 3. Save the city names, crime rates, and smallest distances to the border in a 3-
 column CSV file.
@@ -37,6 +41,16 @@ from urllib.request import urlopen
 import csv
 
 def main():
+    borderCoordinates = [
+        # Brownsville, Texas
+        ['25°55′49″N', '97°29′4″W']
+        # El Paso
+        ['31°45′33″N' '106°29′19″W']
+        # Yuma, Arizona
+        ['32°41′32″N', '114°36′55″W']
+    ]
+#each city to San Ysidro, Yuma, Tucson, El Paso, Laredo, Del Rio, and
+#Brownsville, TX. You are allowed to hardcode the coordinates of these locations.
     wikiURL = "https://en.wikipedia.org"
     URL     = wikiURL + "/wiki/List_of_United_States_cities_by_crime_rate"
     with urlopen(URL) as url:
@@ -69,11 +83,31 @@ def main():
             citySoup = BeautifulSoup(cityURL, 'lxml')
         # Once we have the city page, we can pull the geographic coordinates for
         # it. We will use them to find its distance to the nearest border.
-        cityLatitude  = citySoup.find('span', {'class': 'latitude'}).contents
-        cityLongitude = citySoup.find('span', {'class': 'longitude'}).contents
-        for i in row:
-            lis_array.append([row[0], row[1], "", row[3]])
-            break
+        # We convert them to radians right away, because we are not required to
+        # print the coordinates, but we need radians for the formula.
+        cityLatitude  = math.radians(
+            citySoup.find('span', {'class': 'latitude'}).contents
+        )
+        cityLongitude = math.radians(
+            citySoup.find('span', {'class': 'longitude'}).contents
+        )
+        # With the coordinates in hand, we use the great circle formula to
+        # calculate the distance, and find the closest border town.
+        # https://en.wikipedia.org/wiki/Great-circle_distance
+        borderDistance = 0
+        for borderTown in borderCoordinates:
+            borderXRadians = math.radians(borderTown[1])
+            borderYRadians = math.radians(borderTown[0])
+            deltaSigma = math.acos(
+                math.sin(cityLongitude) * math.sin(borderXRadians)
+                + math.cos(math.abs(cityLatitude - borderYRadians))
+                * math.cos(cityLongitude) + math.cos(borderXRadians)
+            )
+            if ((borderDistance == 0)
+            or (borderDistance < circleRadians * deltaSigma)
+            ):
+                borderDistance = circleRadians * deltaSigma
+        lis_array.append([row[0], row[1], borderDistance, row[3]])
     with open(fileName, "w") as csvFile:
         csvwriter = csv.writer(csvFile)
         csvwriter.writerow(fieldNames)
