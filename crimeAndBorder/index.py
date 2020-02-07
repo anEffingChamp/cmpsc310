@@ -78,7 +78,7 @@ def main():
     #
     # We need the URL to retrieve the page for that city, and to calculate its
     # distance to the border.
-    fieldNames = ["state", "city", 'url', "crime rate"]
+    fieldNames = ["state", "city", 'distance', "crime rate"]
     fileName   = "crimeRatesByBorderProximity.csv"
     lis_array  = []
     for link in data:
@@ -128,7 +128,7 @@ def main():
             # https://en.wikipedia.org/wiki/Earth_radius
             circleRadius = 3958
             if ((borderDistance == 0)
-            or (borderDistance < circleRadius * deltaSigma)
+            or (borderDistance > circleRadius * deltaSigma)
             ):
                 borderDistance = round(circleRadius * deltaSigma, 2)
         print(f'{row[0]}, {row[1]} - \t{borderDistance}, {row[3]}')
@@ -149,7 +149,7 @@ def coordinatesToRadians(inputArgument):
     inputDelimiter2 = inputArgument.find('′')
     # Some coordinates are already in decimal format. If so, we can just return
     # them.
-    if None != inputDelimiter2:
+    if -1 != inputDelimiter2:
         output = output + float(
             inputArgument[inputDelimiter + 1:inputDelimiter2]
         ) / 100
