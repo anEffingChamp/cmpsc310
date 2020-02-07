@@ -100,10 +100,14 @@ def main():
             borderXRadians = coordinatesToRadians(borderTown[1])
             borderYRadians = coordinatesToRadians(borderTown[0])
             # math.dist() would have accomplished the same thing.
+            print(row[1])
+            print(cityLongitude)
+            print(borderXRadians)
+            print('\n')
             deltaSigma = math.acos(
                 math.sin(cityLongitude) * math.sin(borderXRadians)
                 + math.cos(math.fabs(cityLatitude - borderYRadians))
-                * math.cos(cityLongitude) + math.cos(borderXRadians)
+                * math.cos(cityLongitude) * math.cos(borderXRadians)
             )
             # Cool, so what is the radius of the Earth?
             # https://en.wikipedia.org/wiki/Earth_radius
