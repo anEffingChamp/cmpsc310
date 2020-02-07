@@ -43,9 +43,9 @@ import csv
 def main():
     borderCoordinates = [
         # Brownsville, Texas
-        ['25°55′49″N', '97°29′4″W']
+        ['25°55′49″N', '97°29′4″W'],
         # El Paso
-        ['31°45′33″N' '106°29′19″W']
+        ['31°45′33″N', '106°29′19″W'],
         # Yuma, Arizona
         ['32°41′32″N', '114°36′55″W']
     ]
