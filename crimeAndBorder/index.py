@@ -86,6 +86,11 @@ def main():
         # it. We will use them to find its distance to the nearest border.
         # We convert them to radians right away, because we are not required to
         # print the coordinates, but we need radians for the formula.
+        # TODO Great, not all city pages follow the same page structure. Fort
+        # Wayne, Indiana does not identify its coordinates with <span
+        # class='latitude' like the rest.
+        if (None == citySoup.find('span', {'class': 'latitude'})):
+            continue;
         cityLatitude = coordinatesToRadians(
             citySoup.find('span', {'class': 'latitude'}).contents[0]
         )
@@ -100,10 +105,6 @@ def main():
             borderXRadians = coordinatesToRadians(borderTown[1])
             borderYRadians = coordinatesToRadians(borderTown[0])
             # math.dist() would have accomplished the same thing.
-            print(row[1])
-            print(cityLongitude)
-            print(borderXRadians)
-            print('\n')
             deltaSigma = math.acos(
                 math.sin(cityLongitude) * math.sin(borderXRadians)
                 + math.cos(math.fabs(cityLatitude - borderYRadians))
@@ -131,7 +132,8 @@ def coordinatesToRadians(inputArgument):
     output = output + int(
         inputArgument[inputDelimiter + 1:inputDelimiter2]
     ) / 100
-    # TODO Debug this. It fails on coordinates without minutes.
+    # Some coordinates only have degrees, and minutes, but no imperial seconds.
+    # If so, we can stop skip this step of parsing seconds.
     if inputDelimiter2 + 2 < len(inputArgument):
         output = output + int(inputArgument[inputDelimiter2 + 1:-2]) / 1000
     return math.radians(output)
