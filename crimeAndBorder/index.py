@@ -1,3 +1,7 @@
+from bs4 import BeautifulSoup
+from urllib.request import urlopen
+import math
+import csv
 '''
 There is a continuous discussion about whether or not the [illegal]
 immigrants infiltrating the USA from Mexico positively affect the
@@ -36,9 +40,6 @@ module matplotlib is optional.
 Deliverable (to be submitted to BlackBoard): Your code and the
 report. Do not include the HTML files.
 '''
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
-import csv
 
 def main():
     borderCoordinates = [
