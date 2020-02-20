@@ -1,0 +1,2609 @@
+﻿
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+**********The Tragedie  Othello, the Moore  Venice**********
+
+*******************************************************************
+THIS EBOOK WAS ONE OF PROJECT GUTENBERG'S EARLY FILES PRODUCED AT A
+TIME WHEN PROOFING METHODS AND TOOLS WERE NOT WELL DEVELOPED. THERE
+IS AN IMPROVED EDITION   TITLE WHICH MAY BE VIEWED AS EBOOK
+(#1531) at https://www.gutenberg.org/ebooks/1531
+This is our 3rd edition  most  these plays.  See  index.
+Copyright laws are changing all over  world, be sure to check
+ copyright  for your country before posting  files!!
+Please take a look   important information in this header.
+We encourage you  keep  file on  own disk, keeping an
+electronic path open   next readers.  Do not remove this.
+**Welcome To The World  Free Plain Vanilla Electronic Texts**
+**Etexts Readable By Both Humans and  Computers, Since 1971**
+*These Etexts Prepared  Hundreds  Volunteers  Donations*
+Information  contacting  Gutenberg  get Etexts, and
+further   included below.   need  donations.
+       Venice
+by William Shakespeare
+July, 2000  [Etext #2267]
+              *****This  should  named 2267.txt or 2267.zip******
+    usually created from multiple editions,
+  which    Public Domain   United States, unless a
+ notice  included.  Therefore, we  do   any
+  books  compliance with any particular paper edition.
+  now trying  release    one month  advance
+  official  dates, leaving time  better editing.
+ note:  neither  list nor its contents  final till
+midnight   last day      such announcement.
+   date       at
+Midnight, Central Time,       stated month.  preliminary version may often  posted  suggestion, comment
+ editing  those who wish   so.      have up   first  [xxxxx10x.xxx] please check  sizes
+   week        ftp program has
+ bug  it that scrambles   [tried  fix  failed]     size will   do, but   try  see new copy has  least  byte more  less.
+ about   (one page)
+ produce  two million dollars  each hour  work.  The
+  takes us,  rather conservative estimate,  fifty hours
+   etext selected, entered, proofread, edited, copyright
+searched  analyzed,   letters written, etc.  This
+projected audience   hundred    If  value
+per text  nominally estimated   dollar then   $2
+     year as   thirty-six text
+files  month,  432    1999   total  2000+
+  reach just 10%   computerized population,  the
+    200 billion  given away  year.
+ Goal      Give Away One Trillion Etext
+Files  December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+  ten thousand titles      readers,
+  only ~5%   present number  computer users.
+At  revised rates  production,     one-third
+  goal   end  2001,   3,333   we
+manage   some real funding; currently  funding  mostly
+ Michael Hart's salary  Carnegie-Mellon University,  assortment  sporadic gifts;     good   few
+ years, so   looking  something  replace it,  don't want      dependent   person.
+   donations  than ever!
+All    made  "Project Gutenberg/CMU":  are
+tax deductible   extent allowable  law.  (CMU  Carnegie-
+Mellon University).
+For   other matters,  mail to:
+ Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+When   email fails. . .try  Executive Director:
+ S. Hart <hart@pobox.com>
+hart@pobox.com forwards  hart@prairienet.org  archive.org
+if   bounces  archive.org, I  still   if
+   prairienet.org,  resend later on.   .
+ would prefer  send     email.
+******
+ access   etexts, use  Web browser
+ view http://promo.net/pg.   site lists  by
+author   title,  includes   how
+  involved   Gutenberg.  You could also
+download  past Newsletters,  subscribe here.      major sites,   hart@pobox.com,
+   complete    various sites.
+ go directly    collections,  FTP   browser  visit    mirror (mirror
+sites  available  7 continents; mirrors  listed
+ http://promo.net/pg).
+Mac users,   point  click, typing works better.
+Example  session:
+ sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+ etext90 through etext99
+dir [to  files]
+  mget   files.  .set bin  zip GET GUTINDEX.??     year's listing  books, e.g., GUTINDEX.99]
+ GUTINDEX.ALL      ALL books]
+***
+**Information prepared     legal advisor**
+(Three Pages)
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why   "Small Print!" statement here?   know: lawyers.
+They tell us  might sue   there   wrong with
+    etext, even   got   free from
+someone       what's    our
+fault.  So, among  things,    statement
+disclaims    liability  you.  It also tells   can distribute copies       to.
+*BEFORE!* YOU USE OR READ  ETEXT
+ using  reading  part    GUTENBERG-tm
+  indicate   understand, agree   accept
+   statement.     not,   receive
+ refund   money (if any)  paid    sending  request within 30 days  receiving    person
+   from.    received     physical
+medium (such   disk),  must return    request.
+ABOUT  GUTENBERG-TM ETEXTS
+  GUTENBERG-tm  like   GUTENBERG-
+tm    "public domain" work distributed  Professor
+       Association  University (the "Project").  Among other
+  means  no  owns   States     work,    (and you!)         without permission  paying  royalties.  Special rules, set forth
+below, apply         etext
+under  Project's "PROJECT GUTENBERG" trademark.
+ create     expends considerable
+efforts  identify, transcribe  proofread public domain
+works.  Despite  efforts,   etexts   they     contain "Defects".    Defects    form  incomplete, inaccurate or
+corrupt data, transcription errors,    intellectual property infringement,  defective  damaged
+disk    medium,   virus,  computer
+codes  damage  cannot  read   equipment.
+LIMITED WARRANTY; DISCLAIMER  DAMAGES
+But   "Right  Replacement  Refund" described below,
+[1]      party   receive this
+      etext)  all
+    damages, costs  expenses, including
+ fees,  [2]  HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY,   BREACH  WARRANTY  CONTRACT,
+INCLUDING BUT   TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+ INCIDENTAL DAMAGES, EVEN IF  GIVE NOTICE  THE
+POSSIBILITY  SUCH DAMAGES.
+  discover  Defect     90  of
+           any)
+      an explanatory note  that
+   person         it
+  physical        note,    choose  alternatively give   replacement
+copy.      electronically,   may
+      second opportunity to
+  electronically.
+ ETEXT  OTHERWISE PROVIDED   "AS-IS".   OTHER
+WARRANTIES  ANY KIND, EXPRESS  IMPLIED, ARE MADE   AS
+ THE    MEDIUM IT   ON,   NOT
+    MERCHANTABILITY  FITNESS  PARTICULAR PURPOSE.
+Some states   allow disclaimers  implied warranties  exclusion  limitation  consequential   above   exclusions     you,  you
+    rights.
+INDEMNITY
+  indemnify  hold  Project,  directors,
+officers, members  agents harmless   liability, cost
+ expense, including    arise  indirectly     following     cause:
+ distribution     alteration, modification,
+ addition     [3]  Defect.
+DISTRIBUTION   GUTENBERG-tm"
+          book       either delete      references   Gutenberg,
+or:
+  Only  exact   it.          requires     remove, alter  modify         "small print!"     however,
+       wish,     machine readable
+     binary, compressed, mark-up,  proprietary form,
+        resulting  conversion  word pro-
+     cessing  hypertext software,    long as
+     *EITHER*:
+     [*]    when displayed,  clearly readable,           does *not*  characters   those
+          intended       although tilde
+          (~), asterisk (*)  underline (_)             used  convey punctuation             author,  additional                 links;            readily converted   reader            expense into plain ASCII, EBCDIC  equivalent
+               displays   (as is
+           case,  instance,    processors);
+                  provide,     provide               cost, fee                   original  ASCII  (or  EBCDIC
+            equivalent  form).
+  Honor     replacement provisions         statement.
+  Pay  trademark license      20%       net profits  derive calculated   method      already   calculate  applicable taxes.          profits,  royalty  due.  Royalties      payable    Association/Carnegie-Mellon
+     University"   60   each
+       prepare  were legally required  prepare)
+      annual   periodic)  return.
+WHAT   *WANT*  SEND MONEY    DON'T  TO?
+  gratefully accepts contributions  money, time,
+scanning machines, OCR   domain  royalty
+  licenses,  every  sort  contribution
+  think of.  Money       /  University".
+*END*THE  PRINT!    ETEXTS*Ver.04.29.93*END*
+        Othello,
+    Director's Notes:
+In    notes      *NOT*   spelling errors introduced   printers    have
+been corrected, here    few lines  Hamlet,  they
+ presented herein:
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+ selfe
+   Bar. Long liue  King
+As  understand     ran out  certain words
+   had  packed   "cliche".  .this   meaning   term cliche.  .and thus, being unwilling
+ unpack  cliches,  thus     substitutions
+  very odd.  .such   exchanges  u  v, v  u,
+above.     wonder why  did   way, presuming
+Shakespeare   actually write  play   manner.           "liue"   cliche        "v"'s.  .possibly having  "vv" in
+place   "w"'s,    was  common practice   day,
+ print   quite expensive,   didn't   spend
+   wider selection        find  lot   kinds  "errors"   text,  I
+ mentioned   times  places, many "scholars"  extreme attachment       accorded them  high    "canon"  Shakespeare.  My father        him  Cambridge University
+ England  several months   glass room constructed  purpose.    best  my knowledge he    available
+  .in great detail.   determined    changes,
+   likely     nearly    variety    credit  for,  though   in/famous
+ signing his name   different spellings.
+     account    comments below
+   volunteer    file:     errors
+  "not" errors.   So.  .with  caveat.  .we   changed  canon errors,
+         Tragedie
+     Venice.
+  Hart
+  Director
+Scanner's Notes: What    isn't.    taken      folio     close   can
+come     printed text.
+ elongated S's     small s's  conjoined ae     ae.    left  spelling,
+punctuation, capitalization    possible   text.    corrected   mistakes (I  put
+together   dictionary devised   spellings  Geneva Bible    Folio   unified
+ according   template), typo's  expanded
+abbreviations     across them.  Everything within
+brackets []  what   added.  So        everything       purer Shakespeare.
+Another thing     aware      textual
+differences between      folio.      (other      above) between
+     editions.    due   printer's
+habit  setting  type  running off      proofing     correcting    then
+continuing  printing run.   proof run wasn't thrown  but
+incorporated    copies.      way  is.
+       composite     different
+  editions'  pages.
+         typos, punctuation
+    disagree    choices  feel
+   me       make   best
+ possible.    address  right   haradda@aol.com
+ davidr@inconnect.com.   hope   enjoy David Reed
+       Actus Primus. Scoena Prima.
+Enter Rodorigo,  Iago.
+  Rodorigo. Neuer  me,    much vnkindly
+That thou (Iago)  hast   purse,
+  y strings  thine, should'st know     Ia.  you'l  heare me.  euer   dream
+Of   matter, abhorre me
+   Rodo. Thou told'st me,
+ did'st    thy hate
+   Iago. Despise    not. Three Great-ones   Cittie,
+(In personall suite     Lieutenant)
+Off-capt  him:    faith  man
+   price,  am worth  worsse  place.
+   louing  owne pride,  purposes)
+Euades them,   bumbast Circumstance,
+Horribly stufft  Epithites  warre,
+Non-suites  Mediators.  certes, saies he,
+ haue  chose  Officer. And   he?
+For-sooth,   Arithmatician,
+ Michaell Cassio,  Florentine,
+(A Fellow almost damn'd   faire Wife)
+ neuer   Squadron   Field,
+Nor  deuision   Battaile knowes
+More   Spinster. Vnlesse  Bookish Theoricke:
+Wherein  Tongued Consuls  propose
+ Masterly  he. Meere pratle (without practise)
+Is   Souldiership.   (Sir)  th' election;
+  (of whom  eies  seene  proofe
+ Rhodes,  Ciprus,   others grounds
+Christen'd,  Heathen)   be-leed,  calm'd
+ Debitor,  Creditor.  Counter-caster,
+He (in  time)   Lieutenant be,
+  (blesse  marke)  Mooreships Auntient
+   Rod.  heauen,       hangman
+    Why, there's  remedie.
+'Tis  cursse  Seruice;
+Preferment goes  Letter,  affection,
+   old gradation, where  second
+Stood Heire to'th' first. Now Sir,  iudge  selfe,
+Whether    iust terme  Affin'd
+ loue  Moore?
+      follow      O Sir content you.
+  him,  serue  turne vpon him.
+    Masters,   Masters
+Cannot  truely follow'd.  shall marke
+Many  dutious  knee-crooking knaue;
+ (doting    obsequious bondage)
+Weares   time,    Masters Asse,
+ naught  Prouender,   he's  Casheer'd.
+Whip   honest knaues. Others  Who trym'd  Formes,  visages  Dutie,
+Keepe yet their hearts attending  themselues,
+ throwing  showes  Seruice   Lords
+Doe well thriue  them.
+    lin'd  Coates
+ themselues Homage.
+These Fellowes   soule,
+      professe  selfe.  (Sir)
+       Rodorigo,
+Were   Moore,     Iago:
+       selfe.
+Heauen   Iudge,      dutie,
+ seeming so,   peculiar end:
+   outward Action doth demonstrate
+ natiue act,  figure   heart
+ Complement externe, 'tis   after
+   weare  heart   sleeue
+ Dawes  pecke at;      am
+      fall Fortune do's  Thicks-lips owe
+   carry't thus?
+   Call vp her Father:
+Rowse   after  poyson  delight,
+Proclaime    Streets. Incense  kinsmen,
+     fertile Clymate dwell,
+Plague   Flies:    Ioy  Ioy,
+Yet throw  chances  vexation on't,
+   loose  colour
+    Heere   Fathers house, Ile call aloud
+    Doe,   timerous accent,  dire yell,
+  (by Night  Negligence)  Fire
+ spied  populus Citties
+     hoa: Brabantio, Signior  hoa
+    Awake:  hoa, Brabantio: Theeues, Theeues.
+Looke     daughter,   Bags,
+ Theeues
+   Bra. Aboue.    reason   terrible
+Summons?    matter        Familie within?
+   Are  Doores lock'd?
+   Why? Wherefore ask  this?
+    y'are rob'd,  shame put   Gowne,
+Your   burst,   lost halfe  soule
+Euen now,      blacke Ram
+ tupping  white Ewe. Arise, arise,
+Awake  snorting Cittizens   Bell,
+Or else  deuill    Grand-sire  Arise  say
+    What,     wits?
+   Most reuerend Signior,     voice?
+   Not I:   you?
+      Rodorigo
+     worsser welcome:
+  charg'd thee   haunt   doores:
+  plainenesse   heard  say,
+ Daughter    thee.    madnesse
+(Being full  Supper,  distempring draughtes)
+Vpon malitious knauerie, dost  come
+ start  quiet
+      Sir
+       needs  sure,
+ spirits       power
+   bitter  thee
+    Patience       tell'st    Robbing?
+  Venice:  house    Grange
+     graue Brabantio,
+ simple  pure soule,        Sir:          God,
+   bid  Because      seruice,
+  thinke   Ruffians, you'le   Daughter
+couer'd   Barbary horse,    Nephewes
+neigh     Coursers  Cozens:
+ Gennets  Germaines
+     prophane wretch art thou?
+        comes         making  Beast   backs
+       Villaine
+       Senator
+      shalt answere.           answere  thing.   beseech If't   pleasure,   wise consent,
+(As partly    is)    Daughter,
+  odde   dull watch o'th' night
+Transported   worse   guard,
+   knaue   hire,  Gundelier,
+  grosse claspes   Lasciuious Moore:
+   knowne     Allowance,
+   done  bold,  saucie wrongs.
+     this,  Manners      rebuke.   beleeue
+   sence   Ciuilitie,
+     trifle   Reuerence.
+      giuen  leaue)
+ say againe, hath    reuolt,
+Tying  Dutie, Beautie, Wit,  Fortunes
+  extrauagant,  wheeling Stranger,
+ here,  euery where: straight satisfie   she    Chamber,   house,
+Let     Iustice   State
+  deluding     Strike   Tinder, hoa:
+Giue   Taper:     people,
+ Accident   vnlike  dreame,
+Beleefe   oppresses  alreadie.
+Light,  say, light.
+Enter.
+  Iag. Farewell:    leaue  seemes  meete,  wholesome   place
+  producted,    stay,  shall,)
+Against  Moore.      State,
+(How    gall    checke)
+  safetie cast-him.   embark'd
+With  loud    Cyprus Warres,
+(Which euen  stands  Act)    soules
+   Fadome,   none,
+ lead  Businesse.   regard,
+Though   hate     hell paines,
+Yet,  necessitie   life,
+  show   Flag,  signe  Loue,
+  indeed  signe)   shal surely  him
+Lead   Sagitary  raised Search:
+      him.  farewell.
+   Seruants  Torches.
+     too true  euill. Gone  is,
+      despised    bitternesse.  Where didst   her? (Oh vnhappie Girle)
+   saist thou? (Who    Father?)
+How    'twas she?   deceaues Past thought:)  said   you? Get moe Tapers.
+Raise   Kindred.   married     Truely        Oh Heauen: how   out?
+ treason   blood.
+Fathers,  hence trust   Daughters minds
+     act.    Charmes,
+   propertie  Youth,  Maidhood
+May  abus'd? Haue       thing?
+   Yes    indeed
+       Brother: oh     her.
+    another.   know
+   apprehend her,          discouer    please
+   Guard,   along      Pray        call,
+  command  most)  Weapons (hoa)
+ raise  speciall Officers  might:
+On     deserue  paines.
+Exeunt.
+Scena Secunda.
+  Iago, Attendants,        trade  Warre   slaine men,
+      stuffe  conscience
+   contriu'd Murder:  lacke Iniquitie
+Sometime    seruice. Nine,   times
+  thought t'haue yerk'd   vnder  Ribbes
+   Othello.            prated,
+ spoke  scuruy,  prouoking termes
+  Honor,    little godlinesse  haue
+   hard forbeare    pray  Sir,
+  fast married? Be assur'd  this,
+  Magnifico   belou'd,
+    effect  voice potentiall
+ double   Dukes:   diuorce      restraint  greeuance,
+ Law (with   might,  enforce  on)
+Will giue  Cable
+   Othel.     spight;
+ Seruices,      Signorie
+Shall out-tongue  Complaints.    know,
+Which   know,  boasting   Honour,
+  promulgate.  fetch  life  being,
+From Men  Royall Seige.   demerites
+ speake (vnbonnetted)   proud  Fortune
+     reach'd.   Iago,
+     gentle Desdemona,
+    vnhoused  condition
+Put  Circumscription,  Confine,
+  Seas worth.  looke,  Lights  yond?
+      Those    Father,   Friends:
+             found.
+ Parts,  Title,   perfect Soule
+ manifest  rightly.   they?
+    Ianus,   no
+        Dukes?
+  Lieutenant?
+ goodnesse      (Friends)
+   Newes?
+  Cassio.  Duke  greet  (Generall)
+    haste, Post-haste appearance,
+   instant
+            Something  Cyprus,    diuine:
+   businesse   heate.  Gallies
+ sent  dozen sequent Messengers
+  night,   anothers heeles:
+    Consuls, rais'd  met,
+   Dukes already.    hotly call'd for,
+     Lodging   found,
+ Senate    three seuerall Quests,
+ search  out
+        found  you:
+   spend       goe      Aunciant,  makes  heere?
+   Faith,   night  boarded  Land Carract,
+  proue lawfull prize,    euer
+       vnderstand
+    He's married
+     who?
+   Marry to- Come Captaine,   go?
+         Here  another Troope  seeke      Officers,        Generall  aduis'd,
+   bad intent
+    Holla, stand there
+        Moore
+    Downe   Theefe
+    You, Rodorigo?         Othe.    bright Swords,   dew will
+rust  Good      yeares,    Weapons
+      foule Theefe,
+   stow'd  Daughter?
+Damn'd   art,   enchaunted her
+  referre    things  sense,
+(If   Chaines  Magick   bound)
+  Maid,  tender, Faire,  Happie,
+ opposite  Marriage,   shun'd
+ wealthy curled Deareling   Nation,
+Would   (t' encurre  generall mocke)
+Run   Guardage   sootie bosome,
+     thou:  feare,   delight?
+Iudge            practis'd     Abus'd  delicate   Drugs  Minerals,
+ weakens Motion.  haue't disputed on,
+ probable,  palpable  thinking;
+ therefore    attach thee,
+  abuser   World,  practiser
+ Arts inhibited,    warrant;
+Lay       resist
+Subdue    perill
+    Hold  hands
+    inclining,   rest.
+   Cue  fight,     Without  Prompter.      goe
+    charge?
+    Prison, till fit time
+ Law,  course  direct Session
+   answer
+        obey?
+     therewith satisfi'd,
+Whose Messengers  heere   side,
+       bring          worthy Signior,
+   Counsell,   Noble      for
+    How?    Counsell?
+     night? Bring  away;
+Mine's   idle Cause.   himselfe,
+    Brothers     feele  wrong,  'twere  owne:
+   Actions   passage free,
+Bond-slaues,  Pagans   Statesmen be.
+Scaena Tertia.
+ Duke, Senators,  Officers.
+  Duke. There's  composition   Newes,
+ giues  Credite
+   1.Sen. Indeed,   disproportioned;
+ Letters   Hundred  seuen      mine   fortie
+   2.Sena.    Hundred:
+   iumpe     accompt,
+   Cases   ayme reports,
+ oft  difference)     confirme
+A Turkish Fleete,  bearing   Cyprus
+    Nay,    enough  iudgement:
+    secure    Error,
+  maine Article   approue
+ fearefull sense
+   Saylor within.      hoa.
+ Saylor.
+    Messenger       Now? What's  businesse?
+  Sailor.   Preparation   Rhodes,
+    report      Angelo
+         change?
+     be
+  assay  reason.   Pageant
+ keepe vs  false gaze,   consider
+Th' importancie     Turke;
+ let  selues againe  vnderstand,
+    concernes  Turke       facile question beare it,
+       Warrelike brace,
+ altogether lackes  abilities
+ Rhodes  dress'd in.              vnskillfull,
+   latest,    first,
+Neglecting  attempt  ease,  gaine
+ wake,  wage  danger profitlesse
+       confidence    Rhodes
+       Newes.
+  Messenger.
+  Messen.  Ottamites, Reueren'd,  Gracious,
+Steering    toward      inioynted     Fleete
+    I,   thought:  many,   guesse?
+  Mess.  thirtie Saile:     re-stem
+Their backward course,   frank appearance
+ purposes  Cyprus.  Montano,
+ trustie   Valiant Seruitour,
+   dutie, recommends  thus,
+ prayes   beleeue      certaine   Cyprus:
+Marcus Luccicos     Towne?
+      Florence
+    Write  vs,
+  Post, Post-haste, dispatch
+          Moore.
+               employ you,
+   Enemy Ottoman.
+    you: welcome   lack't  Counsaile,   helpe         yours:   Grace pardon me.
+Neither  place,  ought    businesse
+Hath     bed;     care
+Take      perticular griefe
+   flood-gate,  ore-bearing Nature,
+  engluts,  swallowes  sorrowes,
+            matter?
+    Daughter:   Daughter!
+  Sen. Dead?
+     She  abus'd, stolne    corrupted
+ Spels,  Medicines, bought  Mountebanks;
+ Nature,  prepostrously  erre,
+  deficient, blind,  lame  sense,)
+Sans witch-craft  not
+     ere  be,     proceeding
+  beguil'd        her;  bloodie Booke  Law,
+   selfe read,    letter,
+After   sense: yea,   proper Son
+   Action
+    Humbly  thanke  Grace,
+   man;      seemes
+  Mandate,   State affaires
+ hither brought
+   All.   verie sorry for't
+        part,        Nothing,    so
+     Potent, Graue,  Reueren'd Signiors,
+  Noble,  approu'd  Masters;
+   tane    mans    true:     her;
+  head,  front   offending,
+  extent;  more. Rude     speech,
+  bless'd   soft phrase  Peace;
+ since  Armes  mine,   yeares pith,
+Till   nine Moones wasted,   vs'd
+ deerest action,   Tented Field:
+     world   speake,
+  pertaines  Feats  Broiles,  Battaile,
+     grace  cause,
+ speaking       gratious patience)
+   round vn-varnish'd Tale deliuer,
+  whole   Loue.
+ Drugges,   Coniuration,   mighty Magicke,
+(For  proceeding    withall)
+ won       Maiden,  bold:
+ Spirit  still,  quiet,   Motion
+Blush'd   selfe,  she,  spight   Yeares,  Country, Credite,  thing
+   Loue,    fear'd  looke on;
+   iudgement main'd,   imperfect.
+  confesse Perfection   erre
+  rules      driuen
+   practises  cunning hell
+   be.   vouch againe,
+   Mixtures, powrefull o're  blood,
+   Dram, (coniur'd   effect)
+ wrought       proofe,
+  wider,   ouer Test
+Then  thin habits,  poore likely-hoods
+ moderne seeming,   against       Did   indirect,  forced courses
+Subdue,    yong Maides affections?
+ came   request,    question
+   soule affordeth?
+      Send   Lady   Sagitary,
+        Father;
+   finde  foule,   report,
+ Trust,  Office,      onely  away,    Sentence
+    life
+    Fetch Desdemona hither
+     conduct them:
+       come,     heauen,
+    vices    iustly   Graue eares,  present
+       Ladies loue,
+   mine
+    Say  Othello
+    Her Father lou'd   inuited me:
+Still question'd   Storie    yeare  yeare:  Battaile, Sieges, Fortune,
+   past.
+   through,    boyish daies,
+Toth'  moment      it.
+     disastrous chances:
+ mouing Accidents  Flood   haire-breadth scapes i'th' imminent deadly breach;
+     Insolent Foe,
+ sold  slauery.   redemption thence,
+ portance   Trauellours historie.
+  Antars vast,  Desarts idle,
+Rough Quarries, Rocks, Hills, whose head touch    hint  speake. Such   Processe,
+   Canibals    eate,
+ Antropophague,  men  heads
+Grew beneath  shoulders.    heare,
+  seriously incline:
+    Affaires  draw  hence:
+      haste dispatch,
+She'l'd      greedie eare
+Deuoure   discourse.   obseruing,
+Tooke once  pliant houre,    meanes
+     prayer  earnest heart,
+     Pilgrimage dilate,
+Whereof  parcels    heard,
+  instinctiuely:      beguile    teares,
+      distressefull stroke
+  youth suffer'd:    done,
+ gaue    paines    kisses:
+ swore    strange:  passing strange,
+'Twas pittifull:  wondrous pittifull.
+ wish'd        wish'd
+       man.  thank'd        Friend   her,
+   teach      Story,
+   wooe her.     spake,
+     dangers   past,
+       pitty        vs'd.
+   Ladie:   witnesse  Desdemona,  Attendants.
+      tale  win   too,
+     mangled    best:
+   broken   vse,
+  bare          speake?
+        wooer,
+Destruction       blame
+Light       Mistris,
+  perceiue     Companie,
+   owe obedience?
+  Des.   Father,
+     diuided dutie.
+    bound  life,  education:
+   education both  learne   respect     Lord  duty,
+  hitherto  Daughter.  heere's  Husband;
+      Mother shew'd
+  preferring       challenge,    professe
+Due     Lord
+    God      done.
+   Grace,     Affaires;
+    adopt  Child,     Moore;
+             already,           sake (Iewell)
+  glad       Child,
+  escape    Tirranie
+ hang clogges                selfe:
+ lay  Sentence,
+   grise,  step    Louers.
+ remedies  past,  griefes  ended
+ seeing  worst,  late  hopes depended.
+ mourne  Mischeefe     gon,
+       mischiefe on.
+   preseru'd,   takes:
+Patience,  Iniury  mock'ry makes.
+ rob'd  smiles, steales    Thiefe,
+ robs himselfe,  spends  bootelesse            beguile,
+         smile:
+ beares  Sentence well,  nothing beares,
+   comfort   thence  heares.
+     Sentence,   sorrow,
+  pay griefe,     borrow.
+ Sentences,  Sugar,   Gall,
+Being strong   sides,  Equiuocall.
+ words  words,     heare:
+  bruized   pierc'd   eares.
+ humbly   proceed               Preparation
+  Cyprus:   Fortitude              Substitute
+  allowed sufficiencie;  opinion,  more
+soueraigne Mistris  Effects, throwes   safer
+         slubber
+ glosse    Fortunes,    stubborne,
+ boystrous expedition
+     Tirant Custome,   Senators,
+   flinty  Steele Coach  Warre
+ thrice-driuen bed  Downe.   agnize
+ Naturall  prompt Alacratie,
+   hardnesse:   vndertake
+  Warres   Ottamites.
+   bending    craue  disposition   Wife,
+ reference  Place,  Exhibition,
+  Accomodation  besort
+ leuels   breeding
+       Fathers?
+                     recide,
+     impatient thoughts
+    eye.  Gracious Duke,
+  vnfolding, lend  prosperous eare,
+     Charter   voice
+T' assist  simplenesse
+       Desdemona?
+           him,
+ downe-right violence,  storme  Fortunes,
+ trumpet   world.  heart's subdu'd
+    quality   Lord;
+ saw Othello's visage   mind,
+   Honours   valiant parts,
+     Fortunes consecrate.
+  (deere Lords)     behind
+ Moth  Peace,      Warre,
+ Rites       bereft    heauie interim  support
+  deere absence.             voice.
+Vouch   Heauen,   beg     pallate   Appetite:
+  comply  heat   affects
+  defunct,   satisfaction.
+   free,  bounteous   minde:
+  defend   soules,   thinke
+   serious    scant
+     No,  light wing'd Toyes
+ feather'd Cupid, seele  wanton dulnesse
+ speculatiue,  offic'd Instrument:
+  Disports corrupt,  taint  businesse:
+ House-wiues   Skillet   Helme,
+  indigne,  base aduersities,
+Make    Estimation
+         priuately determine,
+Either     going:  Affaire cries hast:
+ speed                         morning,  wee'l meete againe.
+   Officer     Commission        qualitie  respect
+  import          Ancient,
+ man    honesty  trust:
+  conueyance  assigne  wife,
+   needfull,     think
+           so:
+    one.    Vertue  delighted Beautie lacke,
+ Son-in-law  farre  Faire  Blacke
+    Adieu braue  vse  well
+       (Moore)      see:
+ ha's deceiu'd     thee.
+       faith. Honest       thee:
+ prythee   wife attend         aduantage.
+      houre
+   wordly   direction
+      obey  time.
+   Iago
+        heart?
+       think'st         sleepe
+      incontinently drowne        do'st,      after. Why
+ silly Gentleman?
+     sillynesse  liue,     torment:
+     prescription  dye,  death  Physition
+     villanous:   look'd   world
+ foure        distinguish
+betwixt  Benefit,   Iniurie:     knew    himselfe. Ere     would
+        Gynney Hen,  change  Humanity   Baboone
+       do?      shame
+   fond,       vertue  amend     Vertue?  figge,         thus. Our Bodies   Gardens,   which,
+ Wills  Gardiners.      plant Nettels,
+ sowe Lettice: Set Hisope,  weede  Time:
+Supplie    gender  Hearbes,  distract  many:     sterrill  idlenesse,  manured
+ Industry,   power,  Corrigeable authoritie
+  lies   Wills.   braine   liues
+   Scale  Reason,  poize   Sensualitie,
+ blood,  basenesse   Natures     prepostrous Conclusions.   Reason  coole  raging Motions,  carnall
+Stings,  vnbitted Lusts: whereof          Sect,  Seyen
+            meerly  Lust      permission
+  will. Come,   man:   selfe? Drown
+Cats,  blind Puppies.   profest   Friend,
+    knit   deseruing,  Cables perdurable toughnesse.     steed  now.     purse:   Warres, defeate  fauour,   vsurp'd Beard.      purse.      Desdemona
+ continue                  violent Commencement
+       answerable Sequestration,
+       Moores
+ changeable   wils: fill  purse  Money.
+ Food       lushious  Locusts,
+shalbe   shortly,    Coloquintida. She
+   youth:    sated   body
+       choice.   Money
+     wilt  damne   do
+      drowning.     canst:  Sanctimonie,   fraile vow, betwixt
+ erring Barbarian,  super-subtle Venetian      wits,    Tribe  hell, thou
+ enioy her:   Money:  pox  drowning
+    cleane    way. Seeke  rather
+  hang'd  Compassing  ioy,   drown'd,        Wilt      hopes,   depend on
+ issue?
+        Go    told  often,   re-tell         cause  hearted; thine   lesse
+    coniunctiue   reuenge, against
+   canst Cuckold         sport. There   Euents  Wombe    wilbe deliuered. Trauerse, go,
+prouide  Money.        morrow.
+Adieu
+         morning?
+     Lodging
+        betimes
+     too, farewell.    Rodorigo?
+    sell   Land.
+   Thus      Foole,  purse:
+    gain'd   prophane
+    expend   Snipe,
+   Sport,  Profit:    Moore,
+    abroad,  'twixt  sheets
+    Office.    if't  true,
+   meere suspition   kinde,
+     Surety.  holds  well,
+    purpose worke  him:
+Cassio's       now,
+      plume     Knauery.   Let's see.
+    abuse  eares,
+    familiar   wife:
+   person,   smooth dispose
+  suspected: fram'd   women false.
+         thinkes  honest,   seeme   so,
+   tenderly   by'th' Nose
+ Asses are:
+ hau't:   engendred: Hell,  Night,
+Must   monstrous Birth,   worlds  Secundus.   Montano,   Gentlemen.
+  Mon.    Cape,   discerne  Sea?
+  1.Gent. Nothing  all,      Flood:
+       Maine,
+Descry  Saile
+    Me thinks,  wind   aloud  Land,
+ fuller blast ne're shooke  Battlements:
+   ruffiand    Sea,
+ ribbes  Oake,  Mountaines melt  them,
+Can   Morties.        2  Segregation    Fleet:
+      Foaming Shore,
+ chidden Billow   pelt  Clowds,
+ winde-shak'd-Surge,     Maine
+Seemes  cast water   burning Beare,
+ quench  Guards   euer-fixed Pole:
+    mollestation view
+  enchafed Flood
+   Men.       enshelter'd,  embay'd,   drown'd,
+  impossible    out.
+  Gentleman.
+  3 Newes Laddes:  warres  done:
+ desperate Tempest   bang'd  Turkes,
+  designement halts.   ship  Venice,
+   greeuous wracke  sufferance
+     Fleet
+       true?
+    Ship    in:  Verennessa,  Cassio
+   warlike     Shore:   himselfe                on't:
+   Gouernour
+      same      comfort,
+Touching   losse,   lookes sadly,
+ praye    safe;    parted
+ fowle   Tempest
+     Heauens  be:
+   seru'd     commands
+Like   Soldier.    Sea-side      Vessell that's  in,
+  throw-out  eyes        Maine,   Eriall blew,
+An indistinct regard
+   Gent.  let's  so;
+  Minute  expectancie
+  Arriuancie.
+ Cassio.
+  Cassi. Thankes       Isle,
+  approoue  Moore:    Heauens
+  defence   Elements,
+       dangerous Sea
+       ship'd?
+   His Barke  stoutly Timber'd,   Pylot
+  expert,   Allowance;
+Therefore  hope's (not surfetted  death)
+  bold Cure
+   Within.  Saile,         noise?
+    Towne  empty;   brow   rankes  People   cry,         shape    Gouernor
+      discharge  Shot  Courtesie,
+ Friends,  least
+         forth,
+   truth     arriu'd
+     shall.
+     Lieutenant,    wiu'd?
+    fortunately:   atchieu'd  Maid
+ paragons description,  wilde Fame:
+  excels  quirkes  Blazoning pens,
+   essentiall Vesture  Creation,
+Do's tyre  Ingeniuer.
+  now?    in?
+      Auncient   Generall
+    Ha's   fauourable,  happie speed:
+Tempests themselues,  Seas,  howling windes,
+ gutter'd-Rockes,  Congregated Sands,
+Traitors ensteep'd,  enclogge  guiltlesse Keele,
+ hauing     omit
+ mortall Natures, letting  safely  Diuine       she?
+      spake of:
+  Captains Captaine,
+Left        footing  anticipates  thoughts,
+ Senights speed. Great Ioue, Othello  swell  Saile     breath,
+   blesse  Bay   tall Ship,
+ loues quicke pants  Desdemonaes Armes,
+ renew'd fire   extincted Spirits.
+     Aemilia.
+ behold,
+ Riches       shore:
+        knees.
+Haile        Heauen,
+Before, behinde thee,    hand
+Enwheele  round
+        Cassio,
+ tydings      Lord?
+  Cas.     arriu'd,    ought
+       shortly heere
+    Oh,   feare:
+   company?
+     Contention  Sea,  Skies
+Parted  fellowship.  hearke,                greeting   Cittadell:
+ likewise   Friend
+       Newes:
+ Ancient,   welcome. Welcome Mistris:
+   gaule  patience (good Iago)
+  extend  Manners.   breeding,
+     shew  Curtesie
+             lippes,
+   tongue   bestowes     enough
+    Alas:    speech
+    Infaith  much:
+         sleepe.
+   Ladyship,  grant,
+ puts        chides  thinking
+   aemil.            on,  on:   Pictures  doore: Bells   Parlours: Wilde-Cats   Kitchens:
+Saints   Iniuries: Diuels  offended:
+Players   Huswiferie,  Huswiues  your
+Beds
+     fie   Slanderer
+             Turke,
+ rise  play,      worke.
+Aemil.      praise
+          Desde.  would'st      should'st
+praise me?
+     Lady,     too't,
+   nothing,   Criticall
+      assay.
+  gone   Harbour?
+    Madam
+       merry:    beguile
+   am,   otherwise.
+               inuention comes
+  pate,  Birdlyme   Freeze,  pluckes
+ Braines  all.   Muse labours,   she
+ deliuer'd.
+   faire,  wise: fairenesse,  wit,
+ ones  vse,   vseth     Well prais'd:
+    Blacke  Witty?
+      blacke,  thereto   She'le   white,    blacknesse fit
+    Worse,  worse.
+     Foolish?
+       foolish   faire,
+   folly helpt    heire
+       fond Paradoxes,   Fooles
+laugh  Alehouse.  miserable      Foule,  Foolish
+     none     thereunto,
+   pranks,    wise-ones      heauy ignorance:  praisest  worst
+best.    could'st  bestow   deseruing
+woman indeed? One,    authorithy  merit,         malice            proud,
+Had Tongue  will,     loud:
+ lackt Gold,   went  gay,
+Fled         may.
+   angred,  reuenge  nie,
+Bad      displeasure flie:
+   wisedome    fraile,
+   Cods-head   Salmons taile:
+   thinke,  neu'r disclose   Suitors following,    behind:
+   wight,    wightes were)
+     what?
+    suckle Fooles,  chronicle  Beere
+        impotent conclusion. Do
+    aemillia,     husband.
+   (Cassio)      prophane,  liberall
+Counsailor?
+    speakes home (Madam)   rellish
+    Souldier,    Scholler
+         palme:   said, whisper.
+    web     ensnare  great
+ Fly    smile   do:       Courtship.   true,   indeed.
+  tricks   strip     Lieutenantrie,
+  beene     kiss'd   fingers
+ oft,       apt  play
+   Very good:  kiss'd,  excellent Curtsie:
+  indeed.    fingers  lippes?    Cluster-pipes  sake.
+     Trumpet
+              recieue     Loe,   comes.
+     Oth. O,   Warriour
+              great,   content
+       Soules Ioy:
+   Tempest,   Calmes,
+  windes blow,    waken'd death:
+   labouring  climbe hills  Seas
+Olympus high:  duck   low,
+ hell's  Heauen.      dye,
+'Twere     happy.   feare,
+ Soule     absolute,
+      Succeedes  vnknowne Fate
+      forbid
+   Loues
+ Comforts  encrease
+   dayes  grow
+    Amen   (sweet Powers)
+      content,
+ stoppes  heere:      ioy.
+     greatest discords      make
+        tun'd now:    downe
+ peggs    Musicke,         Come:     Castle.
+ (Friends)     Turkes  drown'd.
+    Acquaintance   Isle?
+(Hony)     desir'd  Cyprus,
+     among'st    Sweet,
+ prattle   fashion,   doate
+   comforts.  prythee,     Bay,  disimbarke  Coffers:
+   Master   Cittadell,
+    one,   worthynesse
+ challenge  respect.  Once   met  Cyprus.
+Exit   Desdemona.
+     meet  presently   Harbour.
+ thither,   be'st Valiant,     men
+      Nobilitie   Natures,
+     them) list-me;    watches   Court  Guard. First,   tell
+ this:            him?    possible
+      finger thus:      instructed.
+Marke    violence   lou'd
+    bragging,  telling  fantasticall
+lies.      prating,    discreet
+    eye   fed.   delight
+       diuell?   Blood
+     Act      game  enflame     Satiety  fresh appetite.
+Louelinesse   simpathy   Manners,
+ Beauties:      defectiue  Now
+    requir'd Conueniences,  delicate
+tendernesse wil     begin  heaue the,
+gorge, disrellish      Nature wil
+instruct     compell     choice.
+   granted      pregnant  vnforc'd
+position)    eminent   degree  Fortune,  Cassio do's:    voluble:  conscionable,   putting    forme
+ Ciuill,  Humaine     compasse
+  salt,   hidden  Affection?   none:  slipper,  subtle knaue,  finder  occasion:
+     stampe,  counterfeit Aduantages,
+  Aduantage     diuelish knaue: besides,    handsome, young:
+    requisites      greene
+mindes    pestilent compleat       already
+          she's   most
+     Bless'd figges-end.  Wine  drinkes   grapes.  shee   bless'd,        pudding. Didst    paddle   palme   hand?  marke that?
+   Yes,   did:     curtesie
+   Iago  Leacherie   hand:  Index,  obscure
+prologue   History     Thoughts.
+   neere   lippes,   breathes
+embrac'd together. Villanous thoughts  when
+ mutabilities  marshall       Master,   exercise,  incorporate
+conclusion: Pish.     rul'd    brought   Venice. Watch   night:  Command,  lay't    knowes not:           occasion
+ anger      loud, tainting  discipline,     course
+ please,      fauorably minister
+    Well
+      rash,   sodaine  Choller: happely  strike   prouoke    may:            Mutiny.
+ qualification      taste    displanting       shorter iourney   desires,   meanes     preferre    impediment
+ profitably remoued,     were
+ expectation   prosperitie
+               opportunity
+     warrant  Meete      Cittadell.     Necessaries  Shore. Farewell
+    Adieu.
+          beleeu't:
+     apt,    Credite.
+  (howbeit   endure  not)
+   constant, louing,    dare  he'le      husband.         absolute Lust, (though peraduenture
+  accomptant     sin)
+ partely led  dyet  Reuenge,
+    suspect  lustie  leap'd   Seate.   whereof,
+Doth (like  poysonous Minerall) gnaw  Inwardes:
+  can,        eeuen'd   wife,  wife.
+ fayling           Ielouzie  strong
+   cure.    do,
+   Trash  Venice,   trace
+   hunting,           hip,
+Abuse        garbe
+  feare    Night-Cape too)
+        reward    egregiously   practising   peace,  quiet,
+  madnesse.     confus'd,
+Knaueries plaine face,   seene,     Herald   Proclamation.
+  Herald.        Valiant
+Generall.      arriu'd,
+importing   perdition    Fleete:
+     Triumph.   daunce,
+   Bonfires,  man,   Sport Reuels   leads   besides  beneficiall
+Newes,    Celebration   Nuptiall. So
+   pleasure   proclaimed.  offices
+ open,     libertie  Feasting   houre  fiue,   Bell   eleuen.
+Blesse  Isle       Othello.
+         Michael,     guard  night.
+     Honourable stop,
+  out-sport discretion
+      direction   do.
+ notwithstanding    eye
+   to't
+       honest:
+ goodnight.  morrow   earliest,
+   speech       purchase made,  fruites   ensue,
+ profit's    'tweene   Goodnight.
+     Iago:     Watch
+       Lieutenant:    ten
+ clocke.      earely     Desdemona: Who,     blame;
+            sport  Ioue
+    She's   exquisite Lady
+          Game
+    Indeed shes      creature
+        ha's?
+   sounds  parley  prouocation
+     inuiting eye:
+     modest
+       speakes,
+    Alarum  Loue?
+      perfection
+    Well: happinesse   Sheetes.  Lieutenant,
+   stope  Wine,     brace   Gallants,   faine   measure
+  health               poore,
+    drinking.    wish
+Curtesie  inuent   Custome  entertainment
+        Friends:   Cup, Ile
+drinke        drunke   Cup     craftily qualified too:  behold  inouation
+  heere.   infortunate   infirmity,   taske  weakenesse        man?     Reuels,  Gallants
+desire          Heere,              do't,   dislikes       fasten             alreadie,
+He'l     Quarrell,  offence
+    dogge.
+  sicke Foole Whom Loue  turn'd    side out,
+     Carrows'd.
+Potations, pottle-deepe;    watch.
+     swelling Spirites,
+(That      wary distance,
+  Elements    Isle)
+    fluster'd  flowing Cups,
+   too.
+ 'mongst  Flocke  drunkards
+Am          offend  Isle.    come.
+     Consequence   approue   Boate sailes freely,   winde  Streame
+    'Fore       rowse     Good-faith  litle one:    pint,    Souldier
+          Cannakin clinke, clinke:
+     clinke.
+ Souldiers     life's   span,
+    Souldier drinke.
+  Boyes
+        Song
+     learn'd   England:     potent  Potting.  Dane,  Germaine,
+  swag-belly'd Hollander, (drinke hoa)    English
+      Englishmen     drinking?
+        facillitie,  Dane
+dead drunke.  sweates   ouerthrow  Almaine.
+   Hollander  vomit,   next
+Pottle   fill'd
+                      Iustice
+     sweet England.
+King Stephen  anda  Peere,
+ Breeches cost    Crowne,
+ held  Six pence   deere,
+   cal'd  Tailor Lowne:
+   wight   Renowne,
+     low degree:
+ Pride  pulls  Country downe,
+   awl'd Cloake              Song         heare't againe?
+   No:       vnworthy   Place,
+   things.  heau'ns aboue all:   soules   saued,     must
+  saued
+    It's   Lieutenant
+         offence   Generall,
+    qualitie:                   (but   leaue)        saued   Ancient.         Affaires. Forgiue  sinnes: Gentlemen     businesse.   Gentlemen,   drunke:        hand,     left.    drunke
+     enough,         Excellent        then:     then,
+   drunke.
+  Monta.   Platforme (Masters)           Fellow,    before,
+       Caesar,
+  direction.      vice,
+   vertue,   Equinox,
+      other.  pittie               infirmitie
+ shake  Island
+   Mont.         euermore     sleepe,
+He'le   Horologe   Set,
+ Drinke rocke   Cradle
+           mind  it:
+Perhaps  sees      nature
+Prizes    appeares       euills:     Rodorigo.
+           go
+       pitty,    Should hazard       Second
+    ingraft Infirmitie,
+    Action,              Island,
+    well:    much
+ cure    euill,      pursuing     Rogue:  Rascall
+           Knaue    dutie?  beate     Twiggen-Bottle
+    Beate    Dost  prate, Rogue?
+     Lieutenant:
+               knocke    Mazard
+     come: you're     Drunke?
+     say:    cry  Mutinie.
+  Lieutenant. Alas Gentlemen:
+Helpe hoa.   Montano:
+ Masters. Heere's  goodly     rings  Bell: Diablo,    rise. Fie,  You'le  asham'd  euer.
+              bleed    hurt   death.  dies
+                  forgot    sense  dutie?
+Hold.   speaks            hoa?  whence ariseth    Turkes?         forbid  Ottamittes.
+ Christian shame,    barbarous Brawle:
+  stirs next,  carue    rage,
+Holds   light:  dies   Motion.
+Silence  dreadfull Bell,  frights    propriety.     Masters?
+      greeuing,
+Speake:  began this?     charge thee?
+       Friends     now.
+ Quarter,   termes  Bride,  Groome
+Deuesting   Bed:  then,  now:
+   Planet  vnwitted men)
+Swords out,  tilting    breastes,
+ opposition bloody.   speake
+Any begining   peeuish oddes.
+ would,   glorious,   lost
+ legges,               (Michaell)    forgot?
+              Worthy    wont   ciuill:
+ grauitie,  stillnesse   youth
+   noted.      mouthes  wisest Censure.   matter
+  vnlace  reputation    rich    name
+  night-brawler?               danger,
+    informe While  spare     offends                amisse  night,
+ selfe-charitie  sometimes      selues,    sinne
+  assailes vs
+       blood begins  safer Guides  rule,
+ passion (hauing    collied)
+Assaies  leade      stir,
+   lift  Arme,     sinke          Rout began:           offence,
+   twinn'd      birth,
+         wilde,  peoples  brim-full   Manage priuate,  domesticke Quarrell?
+       Guard  safetie?
+ monstrous:   began't?
+    partially Affin'd,  league  office,
+  deliuer more,  lesse  Truth,
+       Touch    neere,
+      cut   mouth,
+         perswade      truth
+       Generall:
+Montano          crying   helpe,
+     determin'd Sword
+ execute     Gentleman,
+Steppes     entreats  pause:
+      pursue,
+Least   clamour    fell out)
+     fright. He, (swift  foote)
+Out-ran  purpose:   return'd           Swords,
+    oath:     nere   before.    backe
+   briefe)     together
+   thrust,                    Men:    forget,
+          rage      best,
+     receiu'd
+   fled,  strange Indignitie,
+    passe
+      Thy honestie,    mince  matter,
+Making    Cassio:          mine.
+  attended.
+        vp:
+    example
+        (Deere?)
+   All's  Sweeting:
+   bed.    hurts,
+     Surgeon.   off:
+   care   Towne,
+ silence    vil'd brawle distracted.
+    Soldiers    Balmy slumbers wak'd  strife.
+             Surgery
+          Reputation,  Reputation:     Reputation.     immortall  myselfe,   remaines  bestiall.  Reputation,
+  Reputation
+              had
+receiued  bodily wound;         Reputation   idle,   false
+imposition;        deseruing.
+       vnlesse repute     looser.     wayes  recouer   againe.       moode, (a punishment   policie,
+  malice)        offencelesse
+dogge,  affright  Imperious Lyon. Sue     yours
+          despis'd,   deceiue
+   Commander,   slight,  drunken,  indiscreet   Drunke?   Parrat? And
+squabble? Swagger? Sweare?  discourse Fustian
+   shadow?   invisible spirit          by,   call
+ Diuell
+         follow'd  Sword?               Is't possible?
+    remember  masse     distinctly:
+    wherefore.      Enemie   mouthes,  steale away
+ Braines?      pleasance,
+reuell  applause, transforme    Beasts
+          enough:    recouered?
+     pleas'd  diuell drunkennesse,  giue
+    wrath,  vnperfectnesse, shewes     frankly despise          seuere  Moraller.       Condition    stands
+  hartily     befalne:    is,   mend     good
+      aske    Place        drunkard:       Hydra,
+    stop       sensible
+         Beast. Oh
+strange! Euery inordinate cup  vnbless'd,   Ingredient
+  diuell
+       wine,    familiar
+Creature,     vs'd: exclaime            loue
+       approued  Sir.  drunke?
+       liuing,               General's
+Wife,           respect,
+    deuoted,      Contemplation, marke:  deuotement   parts
+ Graces. Confesse   freely   Importune
+              kinde,    blessed  disposition,
+    vice   goodnesse,       requested.   ioynt betweene
+   husband, entreat   splinter.  my
+     naming,  cracke    grow stronger,    before
+     aduise       protest   sinceritie    honest
+kindnesse
+       freely:  betimes   morning,
+    vertuous                      right:                          Villaine?
+      giue,  honest,
+Proball  thinking,           easie
+ inclyning   subdue
+   Suite.    fruitefull
+   Elements.          renownce  Baptisme,
+ Seales,  Simbols  redeemed sin:
+    enfetter'd      make, vnmake,    list,
+   Appetite      weake Function.      Villaine,
+ Counsell    paralell course,
+Directly   good? Diuinitie  hell,
+ diuels   blackest sinnes    suggest    heauenly shewes,
+     whiles   Foole
+Plies   repaire      pleades strongly    powre  pestilence   eare:
+  repeales    bodies Lust,
+     striues    good,
+  vndo  Credite          pitch.
+        Net,
+  en-mash  all.
+            Chace,   Hound  hunts,    filles  Crie.     spent;     exceedingly  Cudgell'd:     issue
+ bee,      experience   paines;
+            returne
+             Patience?
+ wound   heale   degrees?
+ know'st        Witchcraft
+ Wit depends  dilatory time:
+Dos't   well?   beaten        casheer'd Cassio:
+       Sun,
+ Fruites  blossome first,    ripe:
+Content   a-while. Introth  Morning;
+Pleasure,     houres  short.
+Retire      Billited:
+Away,       heereafter:
+   gone.
+ Roderigo.
+Two      Wife  moue            while,    Moor apart,
+   iumpe,     finde
+Soliciting  wife:    way:
+Dull  Deuice,  coldnesse,  delay.
+ Tertius.    Musitians,  Clowne.
+     heere,       briefe:  bid, goodmorrow General
+   Clo.     Instruments   Naples,
+    Nose   Mus.  Sir? how?
+         Instruments?
+    marry   sir
+     thereby hangs  tale
+    Whereby   tale, sir?
+  Clow.  sir,     Instrument  know.          likes  Musick,   desires   loues
+     noise                  Musicke     too't     say)       greatly        such,         Pipes   bagge,  away. Go, vanish  ayre, away.
+ Mu.
+         Friend?
+         Friend:
+      Prythee    Quillets, ther's  poore
+peece  Gold  thee:   Gentlewoman  attends
+   stirring,      entreats
+   fauour  Speech.         stirring sir:    stirre hither,  shall
+  notifie vnto  Clo.
+  happy          a-bed then?
+    no:    broke   parted.
+                    Procure   accesse
+         presently:
+  deuise  meane    Out      conuerse     free.
+Exit
+       for't.   knew
+ Florentine    honest.
+ aemilia.
+ Goodmorrow  Lieutenant)   sorrie
+  displeasure:      well.
+      talking       stoutly.   replies,
+       Fame    Affinitie:    wholsome Wisedome
+    refuse    protests       Suitor,   likings
+    againe
+          fit,        aduantage   breefe Discourse
+ Desdemon alone.
+    in:
+           bosome freely
+                       Pylot,
+     duties   Senate:
+ done,    walking   Workes,
+Repaire   mee
+    Well,   Lord,  doo't
+     Fortification (Gentlemen)   see't?
+    waite   Lordship.
+            Cassio)     abilities   behalfe.
+  Madam do:
+   greeues  Husband,
+     his
+           doubt          friendly       Bounteous Madam,
+   become          Seruant
+     know't:        Lord:
+    long,     assur'd
+   strangenesse   farther off,
+   politique distance
+      Lady,
+ policie     long,
+ feede   nice  waterish diet,
+ breede      Circumstances,
+   absent,    supply'd,
+   forget    Seruice
+       that:  aemilia here,
+      place. Assure    vow  friendship,  performe    Article.     rest,
+   tame,  talke    patience;
+ Bed    Schoole,  Boord  Shrift,
+ intermingle    do's
+  suite:   merry   Solicitor           Madam,            leaue
+                   ill  ease,
+Vnfit    purposes
+       discretion.
+    Hah?           say?
+     Lord;  if-    what
+    Was    parted   wife?
+     Lord? No sure,          guilty-like,
+Seeing  comming
+        he
+             Suitor heere,
+   languishes   displeasure
+     is't  meane?
+         Lord,
+    grace,  power     reconciliation take.
+       truly   erres  Ignorance,    Cunning,
+       face.
+        Went   now?
+    sooth;  humbled,
+       greefe   suffer              Desdemon)        shall't  shortly?
+    sooner (Sweet)      Shall't     Supper?
+            Dinner       dine  home:
+   Captaines   Cittadell
+          Tuesday morne,
+  noone,  night;  Wensday Morne.
+        Exceed  dayes.  hee's penitent:
+   Trespasse,    reason
+(Saue        example)
+   best,     fault
+   priuate checke.    come?
+Tell               deny,
+   mam'ring on? What?     woing       (When      dispraisingly)
+            in? Trust           more:      will:
+  deny  nothing
+         Boone:
+    entreate    Gloues,
+   nourishing dishes,    warme,
+        profit
+   person.      suite
+       indeed,
+     poize,  difficult waight,
+    granted
+        nothing.
+Whereon,     grant                   farewell      Farewell       strait
+     come;    Fancies        obedient.
+    wretch: Perdition catch            not,
+Chaos                 Iago?
+       woo'd      loue?
+    did,    last:
+   aske?
+      satisfaction   Thought,
+  harme
+       thought,           acquainted  hir
+     yes,   betweene   oft
+    Indeed?
+   Indeed?   Discern'st       honest?
+   Honest,     Honest?  Honest
+              do'st  thinke?
+   Thinke,        Alas,  ecchos't me;
+     Monster   thought
+Too hideous   shewne.   mean somthing:
+       lik'st  that,
+    wife.  didd'st  like?
+         Counsaile,
+     wooing;  cried'st, Indeede?
+  contract,     together,
+    hadd'st shut    Braine
+ horrible Conceite.     Shew                    do'st:
+    thou'rt     Honestie,
+ weigh'st     giu'st    stops   fright   more:
+      disloyall Knaue
+ trickes  Custome:      iust,
+They're  dilations, working    Passion  rule
+         sworne,             too
+         seeme,
+         none
+    Certaine,      seeme
+                            thinkings,
+   ruminate,    worst                   Acte         Slaues  free:
+Vtter  Thoughts?     vild,  falce?
+ where's  Palace, whereinto  things
+Sometimes intrude not?    breast  pure,
+ vncleanly Apprehensions
+ Leetes,  Law-dayes,   Sessions sit
+ meditations lawfull?
+     conspire    (Iago)
+     wrong'd,  mak'st   stranger   Thoughts
+         perchance  vicious   guesse
+       plague
+ spy  Abuses,    iealousie
+Shapes faults   not)   wisedome
+    imperfectly conceits,
+   notice,  build    trouble
+   scattering,  vnsure obseruance:
+           Manhood, Honesty,  Wisedome,
+                  Man,     Lord)
+  immediate Iewell   Soules;
+   purse,  trash:
+ something, nothing;
+   his,    slaue  thousands:
+   filches     Name,
+Robs   that,   enriches                 cannot,       hand,
+   whil'st    custodie
+    Ha?
+    beware    iealousie,
+   greene-ey'd Monster,   mocke
+ meate  feeds    liues  blisse,
+    Fate,    wronger:
+ oh,  damned minutes tels  ore,
+ dotes,  doubts: Suspects,  soundly loues?
+    miserie
+    Poore,  Content,  rich,   enough,
+  finelesse,     Winter,
+    feares    poore:
+        defend
+ Iealousie
+       Think'st thou, I'ld   Life  Iealousie;
+    changes   Moone
+  suspitions?      doubt,
+   resolu'd: Exchange    Goat,
+          exufflicate,  blow'd Surmises,
+Matching  inference.      Iealious,
+         company,
+   Speech, Sings, Playes,  Dances:
+      vertuous.
+     merites,   draw
+ smallest         eyes,         doubt;   doubt, proue;
+   proofe,                               Duty     franker spirit.     Receiue         proofe:
+    obserue    Weare     Iealious,  Secure:
+          selfe-Bounty,  abus'd:  too't:
+     well:
+        prankes
+     Husbands.
+  Conscience,
+   leaue't vndone,  kept vnknowne
+       so?
+     deceiue   marrying    seem'd  shake,    lookes,
+          did
+       then:
+Shee   young      Seeming
+     vp,   Oake,
+   Witchcraft.
+     blame:
+       pardon
+                        dash'd  Spirits:
+     iot,   iot
+         has:
+    consider   spoke
+Comes        moou'd:
+       straine   grosser issues,   larger reach,
+  Suspition
+              (my       vilde successe,
+  Thoughts aym'd not.
+        mou'd
+       mou'd:
+     Desdemona's                                point:
+ (to    you)
+  affect  proposed Matches
+   Clime, Complexion,  Degree,
+Whereto       tends:
+Foh,   smel      ranke,
+Foule disproportions,  vnnaturall.
+ (pardon me)     position
+Distinctly       feare
+  recoyling    iudgement,
+ fal  match     formes,
+ happily repent
+    Farewell, farewell:
+    perceiue,         obserue.
+Leaue                  marry?
+  Creature (doubtlesse)
+Sees,        vnfolds
+          intreat  Honor
+ scan    farther:    Although       Place;
+        Ability;
+       a-while:
+        meanes:
+Note      Entertainment
+  strong,  vehement importunitie,
+Much              busie   feares,
+        am)
+            Feare   gouernment
+         leaue.
+    Fellow's  exceeding honesty,
+   Quantities    Spirit
+ humane dealings.      Haggard,
+   Iesses    heart-strings,
+ whistle  off,    downe  winde
+ prey  Fortune. Haply,    blacke,
+     parts  Conuersation
+ Chamberers haue:     declin'd
+Into  vale   (yet   much)
+Shee's gone.      releefe
+   loath   Curse  Marriage!
+      Creatures ours,
+   Appetites?      Toad,
+    vapour   Dungeon,
+   corner       vses.    plague  Great-ones,
+Prerogatiu'd      Base,
+ destiny vnshunnable,     forked   Fated     quicken.    comes:
+      false,  mock'd    beleeue't
+        Othello?
+ dinner,   generous Islanders
+  inuited,    presence
+                faintly?
+   well?
+      paine   Forehead,        watching, 'twill     binde  hard,           Napkin   little:
+  alone:                         Napkin:
+    remembrance    wayward Husband    Woo'd          Token,
+  coniur'd      it)
+  reserues     kisse,   too.       giu't        knowes,  I:
+      Fantasie.
+          alone?
+    chide:                   thing-
+ Hah?
+           all?      now
+   Handkerchiefe
+     Handkerchiefe?
+                 steale
+    Hast    her?
+      drop  negligence,
+   aduantage,    took't Looke,  'tis
+      wench,        with't,    bene
+     filch it?
+                 import,
+Giu't   Poore  shee'l  mad
+          acknowne         aemil.
+       Napkin,
+     Trifles   ayre,
+   iealious, confirmations strong,
+ proofes  holy Writ.    something.
+      poyson:
+Dangerous conceites,     poysons,
+     scarse   distaste:
+    acte   Burne   Mines  Sulphure.    so.
+    comes:  Poppy,  Mandragora,
+   drowsie Syrrups     medicine    sweete   owd'st yesterday
+    Ha, ha,   mee?
+      Generall?        Auant,  gone:       Racke:
+ sweare      abus'd,
+   know't  little
+                   Lust?
+ saw't      harm'd   slept     fed     merrie.
+    kisses   Lippes:
+   robb'd,  wanting   stolne,
+   know't,    robb'd                 happy,    Campe,
+Pyoners    tasted   Body,
+    knowne.      Tranquill minde;  Content;
+  plumed Troopes,   bigge   Ambition, Vertue!  farewell,
+  neighing Steed,   shrill Trumpe,
+ Spirit-stirring Drum,  Eare-piercing Fife,
+  Banner,   Qualitie,
+Pride, Pompe,  Circumstance  glorious Warre:
+    Engines,  rude throates
+  Ioues dread Clamours, counterfet,
+  Occupation's gone
+          Villaine,        Whore;
+   it:    Occular       eternall Soule,
+ had'st     borne  Dog
+    wrath
+             see't:  (at  least)     probation   Hindge,  Loope,
+      woe                slander   torture    Abandon  remorse
+ Horrors   accumulate:
+ deeds    weepe,  Earth amaz'd;
+     damnation adde,
+Greater       Grace!   forgiue me!
+   Man?    Soule?  Sense?
+ buy      wretched Foole,
+ lou'st      Vice!
+  world!     (O World)
+       safe.
+     profit,   hence
+   Friend, sith  breeds       stay:           wise;  Honestie's   looses   workes       World,
+          not:
+     iust,        proofe.      fresh
+ Dians Visage,   begrim'd  blacke
+   face.    Cords,  Kniues,
+Poyson,  Fire,  suffocating streames,
+  indure     satisfied
+        eaten   Passion:
+  repent          satisfied?
+   Would?           how?  satisfied,     super-vision grossely gape on?
+Behold  top'd?
+   Death,  damnation. Oh!
+      tedious difficulty,  thinke,
+     Prospect: Damne         boulster
+   owne.  then?     say? Where's Satisfaction?
+         prime  Goates,  hot  Monkeyes,
+ salt  Wolues    Fooles  grosse
+     yet,   imputation,   circumstances,
+     doore     satisfaction,   haue't
+       liuing   disloyall
+         Office.
+    entred     farre
+(Prick'd      Loue)
+        lately,
+  troubled    tooth,
+   sleepe.    kinde     Soule,    sleepes  mutter
+ Affayres:       sleepe         wary,   hide  Loues,
+     gripe,  wring  hand:
+Cry,   Creature:  kisse  hard,
+   pluckt     rootes,
+ grew    laid  Leg ore  Thigh,
+ sigh,      cursed Fate,
+          monstrous! monstrous!
+        Dreame
+      denoted  fore-gone conclusion,
+  shrew'd                thicken  proofes,
+  demonstrate thinly
+     teare    peeces
+                yet:          Spotted  Strawberries,   wiues hand?
+            gift
+                 wiues)    day
+  wipe  Beard                 any,   here.
+       proofes
+       Slaue  forty  liues:
+   poore,     reuenge.
+     true.          blow      vengeance,   hollow Yeeld   Loue)  Crowne,  hearted Throne
+ tyrannous Hate. Swell    fraught,
+   Aspickes tongues
+             blood
+        minde  change
+         Ponticke  Icie Current,  compulsiue Neu'r keepes retyring ebbe,      Proponticke,   Hellespont:
+   bloody thoughts,   pace
+   backe,  ebbe  humble    capeable,  wide Reuenge
+Swallow  vp.   yond Marble    reuerence   Sacred vow,
+  engage         yet:
+Witnesse  euer-burning  aboue,
+ Elements,  clip   about,
+      vp
+ execution   wit, hands,  wrong'd  Seruice.   command,
+       remorse,
+            vaine thanks,   acceptance bounteous,
+    instant   too't.
+Within           aliue
+       dead:
+    Request.
+   liue
+      lewde Minx:
+        a-part,   withdraw
+ furnish    swift   death
+   Diuell.
+              Quarta.
+  aemilia,  Clown.
+      Sirrah,   lyes?
+          where
+     man?
+     Soldier,        lyes,
+ stabbing
+       lodges         lodges,   tel   lye
+                     mee  deuise
+ lodging,         there,  lye    throat
+      enquire  out?   edified  report?
+     Catechize       Questions,          bidde   hither:    moou'd     behalfe,               compasse   Wit,
+      doing          Handkerchiefe, aemilia?
+        Beleeue        purse
+Full  Cruzadoes.        minde,      basenesse,
+ iealious  are,       ill-thinking.
+    iealious?
+    he?    Sun    borne,
+Drew   humors                  Call'd              Lady.  hardnes  dissemble!
+                hand.
+ hand  moist,        felt  age,    sorrow
+     argues fruitfulnesse,  liberall heart:
+Hot, hot,  moyst.    yours requires
+ sequester  Liberty: Fasting,  Prayer,
+ Castigation, Exercise deuout,
+   yong,  sweating Diuell  commonly rebels:     franke one
+      (indeed)                hand.    old,  hands:
+   Heraldry    hearts
+        this:
+   promise
+     promise, Chucke?
+                      Rhewme  Lend                              Not?
+    indeed,      That's  fault:    aegyptian    giue:
+   Charmer,    read
+   people.    while   'T    Amiable,  subdue  Father
+Intirely   loue:        Guift        loathed,   Spirits  hunt
+  Fancies.  dying,      (when  Fate    Wiu'd)
+      so;   heede    Darling,   precious  loose't,  giue't    perdition,
+    match
+           Magicke      Sybill   numbred         compasses,
+  Prophetticke furie sow'd  Worke:
+ Wormes  hallowed,     Silke,
+   dyde  Mummey,   Skilfull
+Conseru'd  Maidens           veritable,                seene't?
+   Ha? wherefore?
+        startingly,  rash?
+    lost?  gon? Speak,    way?
+               lost:      were?
+   How?
+            Fetcht,   see't
+       can:        tricke      suite,
+     receiu'd        Handkerchiefe,
+  mis-giues
+           sufficient
+               founded      loue;
+Shar'd            Insooth,        Away.
+             before.
+Sure,         vnhappy   losse            man:
+    Stomackes,     Food,
+ eate  hungerly,     full
+ belch vs.
+        Husband
+        way:    doo't:
+ loe  happinesse: go,  importune           newes      former suite.        meanes,   Exist,    member        Office    honour,     delayd.
+  offence,            Sorrowes,
+ purpos'd merit  futurity,
+ ransome            benefit:
+   cloath    forc'd           Almes
+     (thrice-gentle Cassio)
+ Aduocation     Tune;
+             Fauour,   Humour alter'd.
+     sanctified,
+   spoken      stood   blanke      speech.   awhile  patient:
+     will:         dare.   suffice        angry?
+      certainly   vnquietnesse
+       angry?   seen  Cannon
+   blowne  Rankes   Ayre,
+       Arme
+Puff't                 in't     angry.
+               vnhatch'd practise
+Made demonstrable      pudled  cleare Spirit:    cases,
+Mens  wrangle  inferiour things,
+     obiect.       ake,   endues
+  healthfull members,     paine.        Gods,
+      obseruancie
+ fits  Bridall. Beshrew  much, aemilia,
+  (vnhandsome Warrior,   Arraigning  vnkindnesse   soule:
+   finde,   suborn'd  Witnesse,
+  Indited falsely.
+  heauen  bee
+       Conception,
+  Iealious Toy, concerning       day,     cause.
+       answer'd           they're iealious.    Monster
+Begot                 mind.
+  Amen
+          walke  about:
+  doe              vttermost.
+       Ladyship.
+ Bianca.
+  Bian. 'Saue  (Friend Cassio.)
+       home?
+       Bianca?
+     comming   house
+       going   Lodging,    weeke away? Seuen dayes,  Nights?
+Eight score eight houres?  Louers absent howres
+    Diall,   times?
+ weary reck'ning
+    Pardon  Bianca:
+     leaden   prest,
+      continuate       Sweet Bianca
+       Bianca.        Token   newer   felt-Absence:     Cause:
+           woman:
+Throw   gesses    teeth,
+             Mistris,  remembrance;
+   troth      who's        neither:
+     Chamber,
+    well;    demanded
+    will)     coppied:
+   doo't,            Wherefore?
+             addition,        woman'd
+                                  little,
+       soone  night?
+                    soone
+          circumstanc'd.
+Exeunt. omnes.
+ Quartus.              Thinke         priuate?
+    vnauthoriz'd kisse?
+      naked     bed,
+       harme?
+   Naked         hypocrisie   Diuell:
+   vertuously,        tempts,   tempt Heauen
+          Veniall slip:
+                  hers  Lord)   hers,
+   thinke) bestow't         Protectresse   honor too:
+          Essence   seene,
+                    gladly    saidst (oh,     memorie,
+   Rauen   infectious house:
+Boading  all)                                  wrong?
+     Knaues   abroad,
+     importunate suit,
+ voluntary dotage   Conuinced  supply'd   chuse
+   blab.)
+                  assur'd,
+    vn-sweare
+       said?
+                 What?
+   Lye
+                  Lye            be-lye-her.     fullsome:
+Handkerchiefe: Confessions: Handkerchiefe.  confesse,
+     labour.    hang'd,
+   confesse:  tremble     inuest     shadowing passion,  some
+Instruction.      shakes   (pish)
+Noses, Eares,  Lippes:   Confesse?  diuell.
+Falls   Traunce.
+   Worke  Medicine workes.  credulous   caught,
+  worthy,  chast Dames  (All guiltlesse)  reproach:           Cassio?
+           falne   Epilepsie,
+    Fit:        Rub    Temples
+     Lethargie    quyet course:
+   foames  mouth:    Breakes   sauage    stirres:
+  withdraw     while,
+   straight:    gone,
+    occasion,            head?
+     mocke         Heauen:
+        Man
+     Horned man's     Beast
+    Ther's       populous Citty,
+   ciuill                 bearded fellow   yoak'd
+     Millions  aliue,
+ nightly    vnproper beds,
+    peculiar.  case         Fiends Arch-mock,
+ lip      Cowch;
+  suppose  chast.     knowing        shallbe
+         certaine
+        Confine      patient List,
+Whil'st    o're-whelmed         man)
+    shifted  away,
+ layd  scuses   Extasie,
+  anon returne:        promis'd.   encaue     Fleeres,  Gybes,  notable Scornes
+ dwell   Region           anew;
+Where, how,     ago,   hath,     cope       gesture:  Patience,
+         Spleene,
+        Do'st  heare,         Patience:
+ (do'st  heare)  bloody
+      amisse,
+        withdraw?
+      Bianca,
+ Huswife   selling  desires
+Buyes   Bread,  Cloath.    Creature
+ dotes      Strumpets  be-guile    be-guil'd  one)
+   heares    restraine
+  excesse  Laughter.       smile,    mad:
+  vnbookish Ielousie  conserue
+   gestures,   behauiours
+Quite   wrong.        worser,      addition,
+   killes     Ply       Now,   Suit   Bianca's dowre,
+ quickely   speed?
+     Caitiffe
+       laughes                 Rogue,            denies  faintly:                importunes    o're:      said
+              intend      ha
+     ye triumph, Romaine?   triumph?
+    marry.   customer;  beare
+ Charitie        vnwholesome.          so:  laugh,  winnes
+       goes,          true
+        Villaine else
+      scoar'd me?        Monkeys  giuing out:
+  perswaded          flattery,          becomes      story
+          haunts   euery
+         Seabanke
+  Venetians,  thither  Bauble,  falls     neck
+    Crying      were:  iesture imports
+     hangs,  lolls,  weepes   shakes,                   Chamber:
+    nose  yours,                 companie
+    Before            Fitchew:   perfum'd one?
+      haunting       diuell,   dam           gaue
+      fine       take
+  worke?   piece  worke,   should
+           there.
+   Minxes token,       worke?
+There,    Hobbey-horse, wheresoeuer        on't
+                            supper    may,         prepar'd for.
+           must,  rayle   streets       sup              chance       very
+              too;          murther           laugh'd   vice?
+                  mine?
+   Yours         prizes
+         and,  giu'n   whore
+         yeeres  killing:
+  woman,      woman?
+              rot  perish,         liue.      stone:      hurts        sweeter       Emperours
+side,    Taskes
+        way
+    Hang        is:    Needle:  admirable Musitian.   sing  Sauagenesse    Beare:     plenteous
+  inuention?
+              thousand,   times:
+      condition?
+     gentle
+      certaine:
+                       iniquitie:  pattent  offend,         neere
+       chop   Messes:               Officer?
+    fouler
+       poyson,   night.  expostulate     body  beautie vnprouide
+  againe:            strangle         contaminated
+    Good, good:
+    pleases:             vndertaker:
+     midnight.
+ Lodouico,         Trumpet   same?
+             Duke.
+See,  wife's     Lodo. Saue              Lod.     Senators  Venice            pleasures
+       newes,  cozen Lodouico
+          Signior:
+               Liues    Cozen,        vnkind breach:                      faile       will-
+      call:     paper,
+                  attone,              brimestone
+           wise?
+      angrie?
+      Letter mou'd         home,
+Deputing    Gouernment
+                                          deseru'd           beleeu'd       saw't.   much,
+  amends:  weepes
+      diuell:
+     teeme  womans Each   falls,    Crocodile:
+   sight
+       stay        obedient Lady:
+    Lordship       Mistris
+              Sir?
+                  turne:
+   turne,  turne:            weepe.
+  obedient:          teares.
+Concerning   (oh well-painted passion)
+  commanded home:   away:
+    anon.     Mandate,
+  returne   Hence, auaunt:
+    Place.      entreat,     together.
+       Monkeys.
+           Senate
+    sufficient?    Nature
+    shake?  solid vertue
+ shot  Accident,  dart  Chance
+Could  graze,  pierce?
+      chang'd
+      wits safe?      Braine?
+          breath  censure.
+   be:                      'Faith          stroke           vse?
+   Letters,        fault?
+    alas:
+   honestie                courses  denote     saue  speech:        continues
+                          heard:    suspect
+              Aemi.      harme:     syllable      them
+        whisper?
+             Neuer
+       Fan,  Gloues,  Mask,  nothing?
+        strange.
+  durst    wager,        stake:    other,
+Remoue  thought.     bosome:
+        head,
+  requit    Serpents curse,
+      chaste,       purest   Wiues
+   Slander
+    Bid    go.
+        Baud
+    much.    subtile Whore:
+ Closset Locke  Key   Secrets,
+  she'le kneele,  pray:     do't.
+           will?
+     Chucke         pleasure?
+       eyes:    face
+      Fancie's       Function  Procreants alone,    doore:
+Cough,   hem;    come:
+ Mystery,  Mystery:  dispatch.
+ aemi.
+     knee,     import?
+ vnderstand  Fury                Lord:    loyall wife
+                diuells    ceaze     damn'd: sweare
+                              whom?    false?
+   Ah Desdemon,          day:    weepe?
+   motiue   teares        suspect,
+     calling backe,
+   blame                      Affliction,   rain'd
+ kind  Sores,  Shames   bare-head:
+Steep'd   pouertie    lippes.
+Giuen  Captiuitie,    vtmost hopes,
+            patience.  alas,    fixed Figure     Scorne,
+   slow,    at.
+             garnerd            Fountaine     currant runnes,
+  dries vp:   discarded      Cesterne,   Toades
+ knot    Turne  complexion there:
+    Rose-lip'd Cherubin,
+   grim           esteemes         Sommer Flyes    Shambles,
+ quicken   blowing.   weed:
+   louely   smell'st  sweete,
+  Sense akes       borne
+      ignorant sin   committed?
+      Paper?    Booke
+   Whore vpon?  commited,
+Committed?   publicke Commoner,
+    Forges   cheekes,
+   Cynders burne  Modestie,
+     deedes.  commited?
+        Moone winks:
+ baudy      meetes,
+ hush'd    Myne  Earth
+   hear't.          wrong
+        Strumpet?
+        Christian.
+  preserue  vessell       vnlawfull touch
+     Strumpet,          Whore?
+        sau'd
+                  mercy then.
+ tooke                office   Saint Peter,
+   gate  hell.        course:     paines:
+     key,    counsaile.
+     Gentleman conceiue?
+   Madam?      Lady?
+                         Madam?
+                          weepe:  answeres        water.        wedding sheetes, remember,
+   husband hither.
+            vs'd   meete.
+    behau'd,    sticke
+ small'st opinion    misvse?
+                  tell:      Babes
+      easie taskes.
+   chid      faith
+   Child  chiding
+               bewhor'd Throwne  dispight,                 name,      (faire Lady?)
+            was.
+    whore:  Begger   drinke:
+        Callet
+                    such
+          alas  day.
+   forsooke    Matches?
+ Father?   Country?   Friends?
+   Whore?                   for't:
+   Tricke  him?
+             hang'd,       insinuating Rogue,
+ cogging, cozening Slaue,    Office,
+  deuis'd  Slander:                 impossible
+             halter      bones.
+        companie?
+ Place?  Time?
+ Forme?  liklyhood?
+ Moore's abus'd    villanous Knaue,
+  notorious Knaue,  scuruy Fellow.
+ Heauens,   companions thou'd'st vnfold,
+       whip
+ lash  Rascalls    world,
+   East   West
+    Speake  doore.
+    them:   Squire  was
+     seamy-side without,
+               Foole:                                  kneele:
+     trespasse 'gainst        actuall deed,
+   Eyes,     Sence
+Delighted     Forme.
+        did,
+        off
+ beggerly diuorcement)   deerely,
+Comfort forsweare  Vnkindnesse       defeat    taynt  Loue.    Whore,
+        word,
+   Act,     earne,
+   Masse  vanitie           content:    humour:
+                       warrant,
+Hearke    summon  supper:
+    staies  meate,
+ in,  weepe                    deal'st          contrarie?
+  Rodori.    dafts      rather,       keep'st   conueniencie,  suppliest     aduantage
+ hope:     longer   Nor
+            foolishly suffred
+               much:    Performances   kin         vniustly
+       truth:   wasted     meanes.  Iewels           corrupted Votarist.           expectations  comforts  sodaine
+respect,  acquaintance,                        (man) nor
+   well.      scuruy:      fopt          Rodor.              Desdemona.      Iewels,      Suit,    vnlawfull
+solicitation.   assure     seeke
+                     intendment
+ doing
+         mettle             opinion
+  before:             exception:
+      dealt    thy
+Affaire
+       appeer'd
+          appeer'd:      wit  iudgement.
+         which
+  greater       (I
+ purpose, Courage,  Valour)                  Treacherie,
+  Engines          it?   within,   compasse?
+      especiall     depute          true?                 Mauritania  taketh
+        abode
+ lingred    accident. Wherein
+    determinate,   remouing                 vncapable  Othello's
+place: knocking   braines
+                         right.  sups     Harlotry:  thither
+           Honourable
+        (which
+  fashion     twelue        pleasure.       Attempt,     vs.    amaz'd                death,            It
+    time:    growes  wast.
+About                  satisfi'd.
+       Atendants.
+        trouble    further
+            walke
+   Lodoui.       Ladyship
+     Honour   welcome
+                        instant,    return'd
+forthwith: dismisse  Attendant there: look't
+          Aem.       gentler            incontinent,
+                Dismisse       bidding:       wearing,  adieu.
+    displease                        stubbornesse,  checks,  frownes,
+(Prythee vn-pin     fauour
+        Sheetes      bed
+            minds?
+   die before,  shrow'd      Sheetes.
+    talke
+        Maid  Barbarie,
+        prou'd mad,
+  forsake       Willough,
+   'twas:   express'd    dy'd singing          mind:              side
+     Barbarie:           Night-gowne?
+       Lodouico    man.
+   handsome                walk'd
+barefoot  Palestine      nether lip
+       sat singing,   Sicamour tree.
+Sing   greene Willough:
+         knee,
+ Willough,  Willough.
+  Streames     murmur'd  moanes
+  &c.
+       softned  stones,
+  &c. (Lay  these)
+ Willough.      anon)
+    Willough    Garland.
+      scorne  approue.
+(Nay   next. Harke,    knocks?
+   wind
+         Loue:         court mo women,  couch   men.
+   gone,      itch:
+  boade weeping?
+  neyther               Men,  men!
+   conscience  (tell  aemilia)
+       husbands
+   kinde?
+          Would'st     deed    world?
+          Heauenly    neither,    light:
+  doo't    darke
+           al    world's  huge thing:
+        vice
+    Introth,          should,  vndoo't   done. Marry,          Ring,   measures  Lawne,   Gownes,
+Petticoats,  Caps,   petty exhibition.     world: why,      husband
+ Cuckold,     Monarch?   venture
+Purgatory                world.
+         world;
+      labour,          quickly   right
+            woman.
+   dozen:     vantage,  store    plaid        Husbands faults
+ Wiues  fall: (Say,   slacke  duties,
+   Treasures  forraigne laps;
+  breake    Iealousies,
+Throwing   vs:      scant     despight)
+   galles:          Reuenge.          see,  smell,
+   Palats   sweet,  sowre,
+  haue.           others?   Sport?
+      Affection breed    doth.  Frailty   erres?
+        Affections?
+Desires  Sport?  Frailty,   haue?
+          illes              night:
+   vses send,
+  picke bad,  bad;    mend.
+ Quintus.            Barke,
+Straight      Rapier bare,    Quicke, quicke,  nothing;     Elbow,
+  vs,   marres     fixe  firme  Resolution
+          miscarry in't
+             stand
+        deuotion         satisfying Reasons:
+     Forth  Sword:        rub'd   Quat       angry.  whether  kill             gaine. Liue  calles    restitution large
+      bob'd   Guifts         remaine,
+   dayly beauty      vgly:     vnfold         perill:
+   dye.      comming.
+       gate,  he:   dyest
+     thrust    enemy    Coate     know'st:
+   proofe  thine
+       slaine
+      maym'd  euer:
+  Murther, murther.
+     voyce      word
+                        Surgeon
+                   wrong,
+ teachest  Minion,   lyes dead,
+  vnblest  highes: Strumpet     heart,  Charmes    blotted.
+  lust-stain'd,   Lusts  bee spotted.
+    Gratiano.
+      Watch?  passage?
+ Murther
+   Gra.   mischance,     direfull
+     helpe
+    Hearke
+             groane.   night;
+   counterfeits:  think't vnsafe
+           Nobody       death.
+        Here's     shirt,         noyse      murther?
+               cry?
+                               indeede,    Fellow
+           greeuously?
+   Iago?    spoyl'd, vndone  Villaines:
+        mee, Lieutenant!
+ Villaines             heereabout.
+        treacherous    there?                         murd'rous Slaue!  Villaine!
+     Iago!  inhumane Dogge!
+   Kill   darke?
+    Theeues?
+ silent   Towne? Hoa, murther,    be?    good,  euill?
+              Lodouico?
+           mercy: here's    Villaines
+         Brother?
+    Legge    two
+      forbid:
+       shirt.
+            cry'd?
+                        Strumpet.               No
+          thus;
+            Garter. So: -    Chaire
+   easily       faints.              Trash
+      Iniurie.
+ awhile,    come;
+   Light:      no?
+      Countryman
+   sure:         Venice?
+            Know       Gratiano?     pardon:
+  accidents  excuse    neglected                 Cassio?   Chaire,          he,  he:
+     Chaire.
+     carefully  hence,
+   Generall's             (Cassio)
+   friend.         None               pale?     Ayre.
+Stay   Gentlemen.   pale, Mistris?
+    gastnesse   eye?
+   stare,     anon.
+        her:
+   Gentlemen?  guiltinesse   tongues    vse.
+         Husband?
+                 scap'd:
+  slaine,  Rodorigo  dead.
+   Gentleman:          fruits  whoring. Prythe       supt                          so?           Strumpet
+                   I? Fie      Kinde      drest.
+    tel's  Tale.
+             happ'd:
+    afore?         foredoes  quight.
+       bed.
+      Cause,    Cause  Soule)
+        chaste Starres,
+       shed   scarre  whiter skin  hers,  Snow,
+   Monumentall Alablaster:
+      betray  men:
+         Light:
+     flaming Minister,
+      restore,
+         Light,
+ cunning'st Patterne  excelling       Promethaean heate
+    re-Lume.
+   pluck'd  Rose,
+    vitall growth    wither.  smell    Tree.
+  breath,    perswade
+    Sword.         dead,              last.
+     fatall.   weepe,
+   cruell Teares:  sorrow's heauenly,
+ strikes,    loue.  wakes
+                  bed,       pray'd   Desdemon?
+           bethinke     Crime
+Vnreconcil'd      Solicite   straight
+    Alacke,               breefe,    by:
+     vnprepared Spirit,
+  fore-fend)          Talke   killing?
+                  Amen,                     Humh
+           fatall    rowle                        sinnes
+      Loues             dy'st
+     death's vnnaturall,  kils  louing.
+      nether-lip?
+      Frame:
+  portents:    hope,  hope,
+            still
+                lou'd,     gau'st         Life,  Soule:    man,
+         heed,  heed  Periury,
+    death-bed
+         dye
+    Presently.
+      sinne:
+      Oath,
+ remoue,  choake   Conception
+   grone withall.                              Offend    life:       warrantie          Token
+         Handkerchiefe in's  periur'd    stone     call,           Sacrifice.
+               Send,   hither:
+          confest
+                  vnlawfully?
+                 mouth  stopp'd:
+   'tane order        interprets.    dead?
+      haires  liues,    stomacke          betray'd,   vndone
+     Strumpet: weep'st      face?
+    banish                   morrow,            striue
+                pawse
+         prayer
+       late.
+Smothers          hoa?
+            dead?       cruell,   mercifull,
+     linger   paine?
+                          Yes:  aemilia:   by.             high. Hah,   moouing?
+   Graue.     Wer't good?
+   stirres      do?
+              wife?     insupportable!   houre!
+ thinkes,       Eclipse
+ Sunne,  Moone;    affrighted Globe
+ yawne  Alteration.
+                        Soft,       Curtaines draw.
+              yonders  Murthers
+done
+                 error   Moone,
+   neerer     wont,
+   mad.
+     kill'd
+  Venetian,       kill'd?   kill'd?
+             Murther's   tune,
+  Reuenge  harsh
+     falsely, falsely murder'd.
+ Alas!       That?  Out,       Helpe,   helpe.  Ladie               dye.
+      deed?
+    body:    Commend       farewell
+         murdred?
+   knowes?
+            I.
+                Liar       kill'd     Angell     blacker
+       folly:     whore.
+   bely              water.
+   rash  fire,     false.           top  Ask   else.
+      depth  hell:
+         extremity.           Husband.
+      Wedlocke?
+                  entyre   Chrysolite,
+                         hates  slime
+ stickes  filthy deeds.
+        itterance, Woman?
+     Villany   mockes  loue:
+         Woman;
+   Husband:    word?
+   Husband;          pernicious Rot   graine              Bargaine
+       worst:
+ deede         was't         best.
+          harm,
+     hurt.  Gull,  dolt,
+   durt:     deed
+     Sword)    known,
+   twenty liues.  helpe,  helpe:
+     Mistris.    Gratiano,        matter?   Generall?
+              Murthers   necke
+        Disproue     bee'st   sayes,        false:
+         Villain.
+Speake,              thought,
+           true.
+            did.
+      odious  Lye:
+    Lye;  wicked Lye.
+              charme  tongue
+   Emil.      Tongue;
+        murthered         forefend
+      reports    Murder      stare  Masters,
+   indeede
+       Truth
+      Acte
+    Villany, villany, villany:
+  vpon't,  thinke:  smel't:  Villany:
+         greefe.
+ villany! villany!
+      mad?
+     home
+           speake:
+    him;   Perchance            oh
+       downe,  roare:
+     sweetest innocent,
+            fowle!
+     Vnkle,    Neece,
+    hands  newly        grim
+     Desdemon:
+    Father's  Match       greefe
+Shore   thred  twaine.     sight       Yea, curse         Reprobance
+                    committed.  confest    gratifie  amorous workes
+  Recognizance  pledge  Loue
+               Antique     Mother
+     Heauen!   Powres!
+      peace
+    'Twill   out.  peace?
+        North;
+     Diuels,   all,
+All,  crie           wise,              Fye,  Sword   Woman
+          speak'st         Husband:
+    solemne earnestnesse,
+(More   belong'd    Trifle)
+ begg'd    steale't
+     Whore
+                     Filth,  lyest
+              Coxcombe,                stones    serues   Thunder?
+Precious       falles:
+Sure     Wife
+                Hee's            Villain:    weapon
+   recouer'd       without,    passe,
+   rather.     villaine,
+    Slaue.
+         Punie whipster gets  Sword.
+    out-liue Honesty?
+        boad Hearke,         Swan,
+ dye  Musicke:      chaste:          blisse,    true:
+              weapon        Spaine,  Ice brookes temper:
+    Vnkle                deere;
+   weapon,  perforce  suffer
+                   assault           Behold,    weapon:
+      sustaine
+   Thigh.             Sword,
+       impediments
+    stop.    boast)
+  controll  Fate?      affraid,      weapon'd:
+   iournies end,    butt
+  Sea-marke    Saile.
+   backe dismaid?    Man   Rush   brest,
+  retires.    Now:       ill-Starr'd wench,
+Pale   Smocke:      compt,
+     hurle       snatch   Cold, cold,  Girle?
+   Chastity.  cursed,  Slaue!
+   Diuels,
+  possession    sight:
+Blow    windes, roast   Sulphure,
+Wash   steepe-downe gulfes  Liquid fire.
+ Desdemon!  Desdemon: dead.  oh!
+                vnfortunate        Othello:          Viper?
+         down towards  feet;    Fable,
+     Diuell,        Wrench                      Il'd   liue:
+   sense,    die
+           Falne   practise    Slaue,
+   saide         honourable Murderer,    nought    hate,    Honour
+              consent           Deere Generall,     cause
+               pray, demand  demy-Diuell,
+    ensnar'd    Body
+    Demand  nothing:     know:
+   forth,            pray?
+   Torments  ope  lips
+                befalne,
+(Which,          Letter
+Found   pocket      another,           vndertooke
+          Heathenish,          discontented paper
+         meant     villaine:
+  (belike)    interim
+Came   satisfi'd       pernitious Caitiffe;
+         wiues?
+                  dropt     purpose,
+    desire
+      foole, foole!
+       Rodorigo's Letter,
+  vpbraides     Braue    Watch: whereon  came
+   cast:      spake
+(After   dead)              roome,    vs:
+ Power,   Command               Crueltie,
+  torment         his.    Prisoner       fault  knowne
+   State.       Soft you;       goe:
+      seruice,   know't:
+   that.      Letters,
+    vnluckie  relate,
+     am.  extenuate,
+     malice.
+        wisely,          wrought,
+Perplexed   extreame:    (Like   Iudean) threw  Pearle Richer    Tribe:    subdu'd Eyes,
+Albeit vn-vsed   melting moode,
+Drops      Arabian Trees
+ Medicinable gumme.         Aleppo once,
+  malignant,   Turbond-Turke
+    traduc'd      throat  circumcised Dogge,
+ smoate  thus
+      period
+       spoke,  marr'd
+     kist         Killing       kisse.
+Dyes
+                      Sparton Dogge:
+   Anguish, Hunger,   Sea:
+   Tragicke Loading   bed:
+   worke:
+ Obiect poysons Sight,
+   hid.     seize        succeede      Gouernor,
+Remaines  Censure   hellish      Torture,  inforce     aboord,          relate.
+FINIS.
+ Names   Actors.
+        Lieutenant.
+  Villaine.
+  gull'd   Senators.
+ Gouernour         Venetians.
+Saylors.
+   Aemilia,   Bianca,  Curtezan.
+ TRAGEDIE      
