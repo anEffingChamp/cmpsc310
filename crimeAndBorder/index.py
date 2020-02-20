@@ -43,31 +43,17 @@ report. Do not include the HTML files.
 
 def main():
     borderCoordinates = [
-        # San Ysidro, California
-        ['32.5549°N', '117.044306°W'],
         # Brownsville, Texas
         ['25°55′49″N', '97°29′04″W'],
         # El Paso
         ['31°45′33″N', '106°29′19″W'],
-        # Laredo
-        ['27°31′28″N', '99°29′26″W'],
-        # Del Rio
-        # TODO So these coordinates already in decimal format, great.
-        ['29.364°N', '100.900°W'],
         # Yuma, Arizona
-        ['32°41′32″N', '114°36′55″W'],
-        # Tucosn
-        ['32°13′18″N', '110°55′35″W']
+        ['32°41′32″N', '114°36′55″W']
     ]
+#each city to San Ysidro, Yuma, Tucson, El Paso, Laredo, Del Rio, and
+#Brownsville, TX. You are allowed to hardcode the coordinates of these locations.
     wikiURL = "https://en.wikipedia.org"
     URL     = wikiURL + "/wiki/List_of_United_States_cities_by_crime_rate"
-    print(
-        f'This program reviews a Wikipedia list of American cities, and maps \
-        their reported crime rates against their respective distances to the \
-        Mexican border. \
-            {URL} \
-        city \t distance \t crime\n'
-    )
     with urlopen(URL) as url:
         soup = BeautifulSoup(url,"lxml")
     table = soup.find("table")
@@ -78,7 +64,7 @@ def main():
     #
     # We need the URL to retrieve the page for that city, and to calculate its
     # distance to the border.
-    fieldNames = ["state", "city", 'distance', "crime rate"]
+    fieldNames = ["state", "city", 'url', "crime rate"]
     fileName   = "crimeRatesByBorderProximity.csv"
     lis_array  = []
     for link in data:
@@ -128,14 +114,10 @@ def main():
             # https://en.wikipedia.org/wiki/Earth_radius
             circleRadius = 3958
             if ((borderDistance == 0)
-            or (borderDistance > circleRadius * deltaSigma)
+            or (borderDistance < circleRadius * deltaSigma)
             ):
-                borderDistance = round(circleRadius * deltaSigma, 2)
-        print(f'{row[0]}, {row[1]} - \t{borderDistance}, {row[3]}')
+                borderDistance = circleRadius * deltaSigma
         lis_array.append([row[0], row[1], borderDistance, row[3]])
-    print(
-        f"Now we can write the output to {fileName}"
-    )
     with open(fileName, "w") as csvFile:
         csvwriter = csv.writer(csvFile)
         csvwriter.writerow(fieldNames)
@@ -144,21 +126,16 @@ def main():
 # We now need to parse the coordinate into decimal format, since it is
 # currently in imperial: 30°41′40″N
 def coordinatesToRadians(inputArgument):
-    inputDelimiter  = inputArgument.find('°')
-    output          = float(inputArgument[0:inputDelimiter])
+    inputDelimiter = inputArgument.find('°')
+    output = int(inputArgument[0:inputDelimiter])
     inputDelimiter2 = inputArgument.find('′')
-    # Some coordinates are already in decimal format. If so, we can just return
-    # them.
-    if -1 != inputDelimiter2:
-        output = output + float(
-            inputArgument[inputDelimiter + 1:inputDelimiter2]
-        ) / 100
-        # Some coordinates only have degrees, and minutes, but no imperial
-        # seconds. f so, we can stop skip this step of parsing seconds.
-        if inputDelimiter2 + 2 < len(inputArgument):
-            output = (
-                output + float(inputArgument[inputDelimiter2 + 1:-2]) / 1000
-            )
+    output = output + int(
+        inputArgument[inputDelimiter + 1:inputDelimiter2]
+    ) / 100
+    # Some coordinates only have degrees, and minutes, but no imperial seconds.
+    # If so, we can stop skip this step of parsing seconds.
+    if inputDelimiter2 + 2 < len(inputArgument):
+        output = output + int(inputArgument[inputDelimiter2 + 1:-2]) / 1000
     return math.radians(output)
 
 if __name__=="__main__":
