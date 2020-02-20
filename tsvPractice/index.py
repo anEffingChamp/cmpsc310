@@ -17,6 +17,22 @@ def main():
     inputFile  = open('freqs.tsv', 'r')
     outputFile = open('freqs-mean.tsv', 'w')
     for inputLine in inputFile:
-        outputFile.write(inputLine)
+        lineList = inputLine.split('\t')
+        lineAverage = 0;
+        # The last entry in a line is the new line, so we need to exclude that
+        # from our calculations.
+        for loop in range(1, len(lineList) - 1):
+            if '' == lineList[loop]:
+                lineList[loop] = 0
+            lineAverage += float(lineList[loop])
+        # We need to account for the first column, which is a word, not a
+        # number. We also need to account for the last column, which will be the
+        # uncountable new line character.
+        lineAverage = str(lineAverage / (len(lineList) - 2))
+        print(
+            "The average frequency for " + lineList[0] + " is " + lineAverage
+        )
+        outputLine = inputLine + '\t' + lineAverage + '\t\n'
+        outputFile.write(outputLine)
 
 main()
