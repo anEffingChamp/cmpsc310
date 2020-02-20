@@ -13,3 +13,8 @@ eating disorder                1.2406    1.1493    1.8994    1.3713    0.8086
 
 You must use module csv for reading and writing the files.
 """
+def main():
+    inputFile = open('freqs.tsv', 'r')
+    print(inputFile.readline())
+
+main()
