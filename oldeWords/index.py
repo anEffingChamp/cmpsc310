@@ -35,6 +35,8 @@ def main():
             ).read())
         )
     input = BeautifulSoup(fileOutput, 'html.parser')
-    print(input.blockquote.a)
+    for element in input.find_all('blockquote'):
+        inputQuote = element.find('a')
+        print(str(inputQuote) + '\n')
 
 main()
