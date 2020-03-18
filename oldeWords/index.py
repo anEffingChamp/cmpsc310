@@ -39,11 +39,26 @@ def main():
     # BeautifulSoup, tokenize the text with NLTK, lemmatize the words, and count
     # the words that are not in the words corpus. Remember that the words in
     # the corpus
-    englishSet = set(words.words('en'))
+    englishSet        = set(words.words('en'))
+    lemmatizer        = WordNetLemmatizer()
+    # We have a set to rapidly verify whether we have already encountered a
+    # lemmatized word, and a dictionary so that we can use the lemma as a key,
+    # and count its occurrences.
+    othelloSet        = set()
+    othelloDictionary = dict()
     for element in input.find_all('blockquote'):
         # We seem to pick up a number of new lines in these words, so lets just
         # replace them all with empty string.
         quoteToken = nltk.word_tokenize(element.get_text().replace('\\n', ''))
+        for token in quoteToken:
+            # We add the lemma to the dictionary if we have not seen it before.
+            # Otherwise we increment its count by one so that we can retrieve
+            # the most popular words later.
+            lemmas = lemmatizer.lemmatize(token.lower())
+            if lemmas not in othelloSet:
+                othelloSet.add(lemmas)
+                othelloDictionary.update({lemmas:0})
+            othelloDictionary.update({lemmas: othelloDictionary[lemmas] + 1})
         print(quoteToken)
 
 main()
