@@ -24,12 +24,15 @@ nltk.download("wordnet")
 nltk.download('words')
 
 def main():
-    input = BeautifulSoup(
-        urllib.request.urlopen(
-            'http://shakespeare.mit.edu/othello/full.html'
-        ).read()
-    )
-    print(input)
+    try: open('othello.html', 'r')
+    except:
+        fileOutput = open('othello.html', 'w')
+        fileOutput.writelines(
+            str(urllib.request.urlopen(
+                'http://shakespeare.mit.edu/othello/full.html'
+            ).read())
+        )
     return
+    input = BeautifulSoup()
 
 main()
