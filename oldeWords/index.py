@@ -24,7 +24,9 @@ nltk.download("wordnet")
 nltk.download('words')
 
 def main():
-    try: open('othello.html', 'r')
+    # Your program shall download (and cache, and read from the cache, if
+    # available) the file with urllib.
+    try: fileOutput = open('othello.html', 'r')
     except:
         fileOutput = open('othello.html', 'w')
         fileOutput.writelines(
@@ -32,7 +34,7 @@ def main():
                 'http://shakespeare.mit.edu/othello/full.html'
             ).read())
         )
-    return
-    input = BeautifulSoup()
+    input = BeautifulSoup(fileOutput, 'html.parser')
+    print(input.blockquote.a)
 
 main()
