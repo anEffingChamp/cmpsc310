@@ -35,8 +35,15 @@ def main():
             ).read())
         )
     input = BeautifulSoup(fileOutput, 'html.parser')
+    # The program then shall extract the text with
+    # BeautifulSoup, tokenize the text with NLTK, lemmatize the words, and count
+    # the words that are not in the words corpus. Remember that the words in
+    # the corpus
+    englishSet = set(words.words('en'))
     for element in input.find_all('blockquote'):
-        inputQuote = element.find('a')
-        print(str(inputQuote) + '\n')
+        # We seem to pick up a number of new lines in these words, so lets just
+        # replace them all with empty string.
+        quoteToken = nltk.word_tokenize(element.get_text().replace('\\n', ''))
+        print(quoteToken)
 
 main()
