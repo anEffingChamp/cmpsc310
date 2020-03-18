@@ -51,6 +51,8 @@ def main():
         # replace them all with empty string.
         quoteToken = nltk.word_tokenize(element.get_text().replace('\\n', ''))
         for token in quoteToken:
+            if token.lower() in englishSet:
+                continue
             # We add the lemma to the dictionary if we have not seen it before.
             # Otherwise we increment its count by one so that we can retrieve
             # the most popular words later.
@@ -59,6 +61,9 @@ def main():
                 othelloSet.add(lemmas)
                 othelloDictionary.update({lemmas:0})
             othelloDictionary.update({lemmas: othelloDictionary[lemmas] + 1})
-        print(quoteToken)
+    output = sorted(othelloDictionary, key=othelloDictionary.__getitem__)
+    for loop in range(-1,-25,-1):
+        print(str(
+            output[loop]) + ': ' + str(othelloDictionary[output[loop]]))
 
 main()
