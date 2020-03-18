@@ -52,6 +52,9 @@ def main():
         # replace them all with empty string.
         quoteToken = nltk.word_tokenize(element.get_text().replace('\\n', ''))
         for token in quoteToken:
+            # We translate() the string to parse out any punctuation. It will
+            # become an empty string, which we exclude in the following
+            # condition.
             token = token.lower().translate(
                 str.maketrans('', '', string.punctuation)
             )
