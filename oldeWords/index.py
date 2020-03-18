@@ -14,6 +14,7 @@ are in the lower case.
 reference:
 http://shakespeare.mit.edu/othello/full.html
 """
+import string
 import sys
 import urllib.request
 import nltk
@@ -51,12 +52,15 @@ def main():
         # replace them all with empty string.
         quoteToken = nltk.word_tokenize(element.get_text().replace('\\n', ''))
         for token in quoteToken:
-            if token.lower() in englishSet:
+            token = token.lower().translate(
+                str.maketrans('', '', string.punctuation)
+            )
+            if token == '' or token in englishSet:
                 continue
             # We add the lemma to the dictionary if we have not seen it before.
             # Otherwise we increment its count by one so that we can retrieve
             # the most popular words later.
-            lemmas = lemmatizer.lemmatize(token.lower())
+            lemmas = lemmatizer.lemmatize(token)
             if lemmas not in othelloSet:
                 othelloSet.add(lemmas)
                 othelloDictionary.update({lemmas:0})
