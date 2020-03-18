@@ -14,3 +14,22 @@ are in the lower case.
 reference:
 http://shakespeare.mit.edu/othello/full.html
 """
+import sys
+import urllib.request
+import nltk
+from nltk.corpus import words
+from nltk.stem import WordNetLemmatizer
+from bs4 import BeautifulSoup
+nltk.download("wordnet")
+nltk.download('words')
+
+def main():
+    input = BeautifulSoup(
+        urllib.request.urlopen(
+            'http://shakespeare.mit.edu/othello/full.html'
+        ).read()
+    )
+    print(input)
+    return
+
+main()
